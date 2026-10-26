@@ -1,0 +1,250 @@
+[
+  {
+    "id": "S01",
+    "title": "Getting a Grip on the Undrugged: Targeting β-Catenin with Fragment-Based Methods",
+    "year": 2021,
+    "doi": "10.1002/cmdc.202000839",
+    "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.202000839",
+    "read_url": "https://d-nb.info/1227597614/34",
+    "type": "原始研究",
+    "access": "原文PDF文本可读；补充材料未独立核查",
+    "locator": "Table 1; Figure 3; SI Figure 12（正文引用）",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S02",
+    "title": "RCSB PDB 7AFW: Beta-Catenin in complex with compound 6",
+    "year": 2020,
+    "url": "https://www.rcsb.org/structure/7AFW",
+    "type": "PDB书目/实验元数据",
+    "access": "仅网页条目信息；未下载坐标、未做结构分析",
+    "locator": "Experimental Data Snapshot; Ligands; revision history",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S03",
+    "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes",
+    "year": 2018,
+    "doi": "10.1039/C8SC00286J",
+    "url": "https://pubs.rsc.org/en/content/articlehtml/2018/sc/c8sc00286j",
+    "read_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5969509/",
+    "type": "原始研究",
+    "access": "原文检索索引中的正文与图注可读；直读页面受限；SI未独立核查",
+    "locator": "Figures 2–3; Discussion; ESI Figures 3–9（正文引用）",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S04",
+    "title": "Discovery of Noninhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy",
+    "year": 2026,
+    "doi": "10.1021/jacs.6c07205",
+    "url": "https://pubs.acs.org/doi/10.1021/jacs.6c07205",
+    "read_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/",
+    "type": "原始研究",
+    "access": "原文索引可读；正文直读受限。Figure 6A具体阴性条件还从原文镜像索引交叉读取，需原刊/SI复核",
+    "locator": "Table 1; Figure 5; Figure 6A; Figure S6（正文引用）",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S05",
+    "title": "Deubiquitinase-targeting chimeras for targeted protein stabilization",
+    "year": 2022,
+    "doi": "10.1038/s41589-022-00971-2",
+    "url": "https://www.nature.com/articles/s41589-022-00971-2",
+    "read_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125259/",
+    "type": "原始研究",
+    "access": "原文索引正文、方法及扩展图注可读；未逐项审计源数据",
+    "locator": "Figure 2d–e; Extended Data Figures 2–3; Deubiquitinase activity assay methods",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S06",
+    "title": "Discovery of New OTUB1 Covalent Ligands via Structure-activity Relationship Studies for Targeted Protein Stabilization",
+    "year": 2026,
+    "doi": "10.1021/acs.jmedchem.5c03327",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13188352/",
+    "type": "原始研究",
+    "access": "原文索引正文和图注可读；SI待核查",
+    "locator": "Figures 4E and 5A; Discussion",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S07",
+    "title": "Structure-based design, synthesis and crystallization of 2-arylquinazolines as lipid pocket ligands of p38α MAPK",
+    "year": 2017,
+    "doi": "10.1371/journal.pone.0184627",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184627",
+    "type": "原始研究",
+    "access": "原文网页可读；本轮提取引言、数据可用性和结合验证，不作独立结构分析",
+    "locator": "Introduction; Data Availability; SPR/thermal-shift methods",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S08",
+    "title": "Lipid Pocket Binders Impose Allosteric Changes of Protein Dynamics Around the Active Site of the Protein Kinase p38α",
+    "year": 2026,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13053915/",
+    "type": "原始研究",
+    "access": "原文索引可读；全文与SI尚待逐项核对",
+    "locator": "Abstract/introduction and NMR coupling results",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S09",
+    "title": "Discovery of Nanomolar DCAF1 Small Molecule Ligands",
+    "year": 2023,
+    "doi": "10.1021/acs.jmedchem.2c02132",
+    "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c02132",
+    "type": "原始研究",
+    "access": "摘要/原文索引可读",
+    "locator": "OICR-8268 affinity and CETSA results",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S10",
+    "title": "OICR-41103 as a chemical probe for the DCAF1 WD40 domain",
+    "year": 2025,
+    "doi": "10.1038/s42003-025-08491-0",
+    "url": "https://www.nature.com/articles/s42003-025-08491-0",
+    "type": "原始研究",
+    "access": "原文网页可读；SI Figure 7E结论从正文读取，图本身未独立复核",
+    "locator": "Displacement of Vpr; Figure 4; Supplementary Figure 7E（正文引用）",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S11",
+    "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication",
+    "year": 2026,
+    "doi": "10.1021/acs.jmedchem.6c00126",
+    "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126",
+    "read_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13224092/",
+    "type": "原始研究",
+    "access": "原文索引结果和讨论可读；全文直读受限",
+    "locator": "Results; Crystal Structures; Discussion",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S12",
+    "title": "Abstract C049: IMTAC: A proteome-wide live-cell screening platform for discovering covalent binders to diverse targets including GPCRs, phosphatases, and more",
+    "year": 2025,
+    "doi": "10.1158/1535-7163.TARG-25-C049",
+    "url": "https://aacrjournals.org/mct/article/24/10_Supplement/C049/766605/Abstract-C049-IMTACT-A-proteome-wide-live-cell",
+    "type": "会议摘要（原始披露，非完整论文）",
+    "access": "摘要索引可读；完整海报/原始数据未找到",
+    "locator": "PTPN2 / BGP-1900 bullet",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S13",
+    "title": "A Proximity-Driven Functional Screening Platform for the Discovery of Noninhibitory USP7 Ligand Enabling Targeted Protein Stabilization",
+    "year": 2026,
+    "doi": "10.64898/2026.09.10.750156",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.09.10.750156v1",
+    "read_url": "https://sciety.org/articles/activity/10.64898/2026.09.10.750156",
+    "type": "预印本线索",
+    "access": "原站403；只读到Sciety转载的作者摘要；不能算原文核查完成",
+    "locator": "Abstract; publication feed 2026-09-14",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S14",
+    "title": "An optimized RNF126-targeting covalent handle for molecular glue degraders",
+    "year": 2026,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960894X26002106",
+    "read_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001483/",
+    "type": "原始研究（PMC与期刊版本需对照）",
+    "access": "原文索引正文可读；SI Figure S1a未独立复核",
+    "locator": "Transplantation of the Optimized Handle Enables Degradation of AR and AR-V7; Figure S1a",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S15",
+    "title": "A sucrose-binding site provides a lead towards an isoform-specific inhibitor of the cancer-associated enzyme carbonic anhydrase IX",
+    "year": 2015,
+    "doi": "10.1107/S2053230X1501239X",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4601603/",
+    "type": "原始研究",
+    "access": "原文索引正文、表格可读",
+    "locator": "Abstract; Table 1; Discussion",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S16",
+    "title": "Structural insights into the non-inhibitory mechanism of the anti-EGFR EgB4 nanobody",
+    "year": 2022,
+    "doi": "10.1186/s12860-022-00412-x",
+    "url": "https://link.springer.com/article/10.1186/s12860-022-00412-x",
+    "type": "原始研究",
+    "access": "原文/机构库索引可读；功能原始筛选需追溯其引用",
+    "locator": "Introduction; Results; Data availability",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S17",
+    "title": "Targeting Bcr–Abl by combining allosteric with ATP-binding-site inhibitors",
+    "year": 2010,
+    "doi": "10.1038/nature08675",
+    "url": "https://www.nature.com/articles/nature08675",
+    "read_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2901986/",
+    "type": "原始研究",
+    "access": "摘要/原文索引可读",
+    "locator": "Abstract; myristate-pocket mutations; Data availability (3K5V)",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S18",
+    "title": "Structural determination of estrogen-related receptor γ in the presence of phenol derivative compounds",
+    "year": 2008,
+    "doi": "10.1016/j.jsbmb.2007.06.006",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960076007002361",
+    "type": "原始研究",
+    "access": "原文摘要/索引可读；2007在线、2008卷期，日期不混用",
+    "locator": "Abstract; ligand affinity and coactivator recruitment",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S19",
+    "title": "RCSB PDB 4YWP: Sucrose Binding Site in genetically engineered Carbonic anhydrase IX",
+    "url": "https://www.rcsb.org/structure/4YWP",
+    "type": "PDB书目/实验元数据",
+    "access": "网页元数据；未下载坐标、未分析",
+    "locator": "Mutation(s); primary citation; resolution",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S20",
+    "title": "RCSB PDB 7OM4: Nanobody EgB4 bound to the full extracellular EGFR-EGF complex",
+    "url": "https://www.rcsb.org/structure/7OM4",
+    "type": "PDB书目/实验元数据",
+    "access": "网页标题核对；未下载坐标、未分析",
+    "locator": "Entry title",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S21",
+    "title": "RCSB PDB 8F8E: WDR domain of human DCAF1 in complex with OICR-8268",
+    "url": "https://www.rcsb.org/structure/8F8E",
+    "type": "PDB书目/实验元数据",
+    "access": "网页标题核对；未下载坐标、未分析",
+    "locator": "Entry title",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S22",
+    "title": "RCSB PDB 5N68: p38alpha in complex with Lipid Pocket Ligand 9m",
+    "url": "https://www.rcsb.org/structure/5N68",
+    "type": "PDB书目/实验元数据",
+    "access": "网页标题核对；未下载坐标、未分析",
+    "locator": "Entry title",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "S23",
+    "title": "RCSB PDB 2P7A: Estrogen Related Receptor g in complex with 3-methyl phenol",
+    "url": "https://www.rcsb.org/structure/2P7A",
+    "type": "PDB书目/实验元数据",
+    "access": "检索条目可读；未下载坐标、未分析",
+    "locator": "Title and primary citation",
+    "accessed": "2026-10-26"
+  }
+]

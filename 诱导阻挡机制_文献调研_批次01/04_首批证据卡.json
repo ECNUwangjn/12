@@ -1,0 +1,384 @@
+[
+  {
+    "gene": "CTNNB1",
+    "name": "β-catenin",
+    "ligand": "compound 6（PDB配体 R9Q）",
+    "chemistry": "fragment / 常规小分子",
+    "tier": "C",
+    "site_evidence": "S1（配体共晶）＋功能位点突变线索",
+    "review_depth": "原文初审，SI待复核",
+    "priority": "高：结构定位清楚的fragment备选",
+    "sources": [
+      "S01",
+      "S02"
+    ],
+    "facts": "文献将配体定位于armadillo repeats 2/3之间的口袋，邻近但不直接覆盖TCF4/BCL9界面。compound 6的NMR Kd为915±303 μM；SPR为1390±46 μM，作者说明SPR拟合有外推及非特异信号。位点突变的TOPFlash及co-IP结果支持该区域并非所测转录/PPI功能的关键区域。",
+    "pdb": [
+      {
+        "id": "7AFW",
+        "role": "compound 6共晶；条目核对完成",
+        "note": "论文文本报1.98 Å，当前PDB页面报1.81 Å；并列记录，未自行解释差异。"
+      },
+      {
+        "id": "2GL7",
+        "role": "作者用于比较的β-catenin–BCL9–TCF4复合物",
+        "note": "是功能复合物背景，不是compound 6共晶。"
+      }
+    ],
+    "functional_status": "主要是位点遗传学支持；尚未核实母体compound 6在充分占有率下的完整功能阴性实验。",
+    "site_status": "有非功能位点支持，但仅限已测试的转录/互作功能；尚未排除所有天然互作。",
+    "occlusion": "G1，仅引用作者所述邻近功能界面；招募R能否阻挡TCF4/BCL9没有实验证明。",
+    "gaps": [
+      "靶点是PPI/转录支架，不是典型催化酶。",
+      "Kd接近mM，必须解决占有率、溶解度和非特异结合；不能把无效解释为位点绝对非功能。",
+      "正文突变写法出现S246V与双突变S256V，需对照SI确认；不能自行改写。",
+      "SI Figure 12和配体直接功能实验待核查；不能把蛋白突变结果当作配体实验。"
+    ],
+    "next": "优先追踪该口袋的后续配体优化文献，核对SI与化合物功能数据；仅文献，不进行结构分析。"
+  },
+  {
+    "gene": "PTPN1",
+    "name": "PTP1B",
+    "ligand": "macrocycle 7 / 7-FITC 系列",
+    "chemistry": "合成大环/肽样化学空间",
+    "tier": "B（暂定）",
+    "site_evidence": "S4/未定位；本轮未确认该配体的共晶PDB",
+    "review_depth": "原文片段初审，原刊/SI待复核",
+    "priority": "高：非抑制性酶配体，但位点是主要缺口",
+    "sources": [
+      "S04"
+    ],
+    "facts": "2026年原始研究以保留去磷酸化功能的筛选寻找配体。7系列FP结合读数约1 μM，所用荧光衍生物需与未标记母体分开。Figure 6A的可检索原文镜像称，母体7在50 μM下不抑制DiFMUP去磷酸化；该条件还需原刊/SI复核。其他位置的FITC修饰具有耐受性，是连接位点线索。",
+    "pdb": [],
+    "functional_status": "有直接酶活阴性报告；目前以小底物为主，不等于全长生理底物及所有细胞功能无变化。",
+    "site_status": "未确定准确位点，无法判断是否属于已知功能/调控区域。",
+    "occlusion": "G0；保留酶活的招募不代表可通过招募另一个蛋白实现阻挡。",
+    "gaps": [
+      "缺T–7共结构或定位突变证据。",
+      "1 μM对应的探针身份与母体亲和力必须核对。",
+      "需要原刊Figure 6、SI以及细胞读数核查；不以文章标题替代数据。",
+      "大环类型及其尺寸与传统小分子不同。"
+    ],
+    "next": "核对原文和SI中的结合探针、非抑制曲线、功能激活可能性及定位数据；寻找后续位点研究。"
+  },
+  {
+    "gene": "EGLN1",
+    "name": "PHD2",
+    "ligand": "cyclic peptide 3C / 4C",
+    "chemistry": "约2 kDa环肽（扩展池）",
+    "tier": "B",
+    "site_evidence": "S3（蛋白NMR定位）＋非竞争证据",
+    "review_depth": "原文正文/图注初审，SI待复核",
+    "priority": "中高：强结合且酶活阴性，化学类型和方位有限制",
+    "sources": [
+      "S03"
+    ],
+    "facts": "BLI报告3C和4C的Kd分别为270 pM和170 pM。CODD羟化实验未见显著抑制，配体浓度超过Kd的1000倍且超过酶浓度4倍。NMR和底物结合实验支持非活性位点结合；作者推断结合区域在底物口袋的相反一面，并承认该区域是否有其他生理PPI功能未知。",
+    "pdb": [
+      {
+        "id": "2G19",
+        "role": "作者将NMR扰动映射到的背景结构",
+        "note": "不是3C/4C共结构。"
+      },
+      {
+        "id": "3HQR",
+        "role": "PHD2–CODD功能复合物背景",
+        "note": "不是3C/4C共结构。"
+      }
+    ],
+    "functional_status": "生化羟化及底物结合阴性证据较强；不等于细胞内所有功能阴性。",
+    "site_status": "定位支持非活性区域；非功能属性仍未完全确定。",
+    "occlusion": "G0；文献所述相反面位置不能直接支持覆盖底物口袋。本项目不作空间预测。",
+    "gaps": [
+      "不是传统小分子，细胞进入能力需另查。",
+      "没有在本轮确认的T–3C/4C共晶PDB。",
+      "对其他生理PPI功能仍未知。",
+      "原文给出的R12变化是配体侧链验证，不能冒充靶蛋白位点突变定位。"
+    ],
+    "next": "追踪2018年后的共结构/功能研究；保留为非抑制性配体方法学及大环备选。"
+  },
+  {
+    "gene": "OTUB1",
+    "name": "OTUB1",
+    "ligand": "EN523；后续MS5105 / MS8572（compound 34）",
+    "chemistry": "共价小分子",
+    "tier": "B",
+    "site_evidence": "S3（共价MS定位）；MS8572另有C23S结合突变证据",
+    "review_depth": "两代原始研究初审，SI待复核",
+    "priority": "高：小分子与定位证据较好",
+    "sources": [
+      "S05",
+      "S06"
+    ],
+    "facts": "EN523经质谱定位于非催化C23，原文报告不抑制二泛素裂解，且NMR支持不扰动UBE2D2结合。方法以50 μM配体预处理500 nM酶1小时，再稀释启动反应。后续MS8572在C23S蛋白上不形成加合物，并保留所测酶活；作者同时指出C23S自身活性仍应进一步检验。",
+    "pdb": [],
+    "functional_status": "存在具体DUB酶活阴性及E2结合保留证据；共价占有率和功能测定时间需匹配。",
+    "site_status": "C23非催化不等于所在N端区域无功能；需要审查OTUB1的E2/泛素调控与非经典作用。",
+    "occlusion": "G0；C23位于柔性N端，现有证据不足以预测招募R的遮挡方向。",
+    "gaps": [
+      "尚未确认这些配体的实验共结构。",
+      "不能将MS8572突变结果无条件替代所有EN523衍生物。",
+      "不套用可逆Kd的占有率公式。",
+      "需要核查更广泛底物及非经典E2抑制功能。"
+    ],
+    "next": "继续查C23功能与N端调控文献、全酶功能及配体定位；保留小分子优先线索。"
+  },
+  {
+    "gene": "MAPK14",
+    "name": "p38α",
+    "ligand": "LiPoLi 9m / ME17及同系列",
+    "chemistry": "常规小分子",
+    "tier": "C／暂缓严格候选资格",
+    "site_evidence": "S1（多个配体共晶）",
+    "review_depth": "旧/新原始研究交叉初审",
+    "priority": "中：检验非功能位点误判的重点",
+    "sources": [
+      "S07",
+      "S08",
+      "S22"
+    ],
+    "facts": "2017年研究报告一系列lipid-pocket ligands的SPR和共晶，并指出该口袋生理功能尚不清楚。2026年原始研究报告lipid pocket与活性区的动力学变构联系。已有共结构并不支持把该区域直接定义为非功能位点。",
+    "pdb": [
+      {
+        "id": "5N68",
+        "role": "9m共晶，网页条目核对",
+        "note": "同系列另有5N63–5N67，来自原文Data Availability，未逐个查条目。"
+      }
+    ],
+    "functional_status": "本轮未核实在充分占有率下覆盖相关底物的完整功能阴性实验。",
+    "site_status": "存在变构耦联证据；是否构成功能调控须看功能读数，当前不能满足严格非功能条件。",
+    "occlusion": "G0；没有本项目或已核实文献的诱导阻挡结论。",
+    "gaps": [
+      "未见功能不等于已证实无功能。",
+      "新研究的动态变化与具体功能效应应分开。",
+      "需区分只占lipid pocket与同时占ATP位点的化合物。"
+    ],
+    "next": "文献复核新旧功能结果；若发现明确激活/抑制，排除该具体化合物路线。"
+  },
+  {
+    "gene": "DCAF1",
+    "name": "DCAF1",
+    "ligand": "OICR-8268；SDIPTAC相关系列",
+    "chemistry": "常规小分子及双功能衍生物",
+    "tier": "X（OICR-8268严格路线）；R（诱导阻挡机制参照）",
+    "site_evidence": "S1（母体与三元复合物均有已发表PDB）",
+    "review_depth": "三篇原始研究交叉核查",
+    "priority": "机制参考高；严格候选低",
+    "sources": [
+      "S09",
+      "S10",
+      "S11",
+      "S21"
+    ],
+    "facts": "母体OICR-8268的SPR Kd为38 nM。2025年原始研究报告其可完整置换Vpr，Kdisp为620 nM（正文引SI 7E），因此不能视为无功能配体。2026年SDIPTAC论文报告诱导DCAF1同源二聚并阻碍Vpr结合，为体积阻挡提供已发表机制参照。",
+    "pdb": [
+      {
+        "id": "8F8E",
+        "role": "OICR-8268–DCAF1共晶，条目核对",
+        "note": "母体已有功能作用。"
+      },
+      {
+        "id": "9ZL9 / 9ZLE / 9ZLG / 9ZLI",
+        "role": "SDIPTAC三元结构，按作者报告记录",
+        "note": "未下载或分析；不能将同源二聚直接等同异源T–R设计。"
+      }
+    ],
+    "functional_status": "母体并非功能阴性：有Vpr置换结果。",
+    "site_status": "对应配体路线不满足用户要求；非重叠的结构表象不能推翻功能实验。",
+    "occlusion": "G3（文献机制参照）；但不满足严格母体配体门槛，不能作为成功命中。",
+    "gaps": [
+      "同源二聚R=T；原始需求更接近另一蛋白R。",
+      "天然底物广泛功能仍需另行评价。",
+      "部分综述称不干扰Vpr，与较新原始实验不一致，应采纳原始实验并保留冲突记录。"
+    ],
+    "next": "仅作诱导阻挡机制先例；寻找DCAF1的其他真正功能阴性位点/配体。"
+  },
+  {
+    "gene": "AR",
+    "name": "Androgen receptor / AR-V7",
+    "ligand": "VPC-14228（EST1140的靶向来源）",
+    "chemistry": "常规小分子",
+    "tier": "X（此配体路线）",
+    "site_evidence": "本轮未核实实验配体共结构；文献称作用于DNA-binding domain",
+    "review_depth": "原文功能反证核查",
+    "priority": "排除当前路线",
+    "sources": [
+      "S14"
+    ],
+    "facts": "2026年研究将VPC-14228接上RNF126相关基团得到EST1140。正文同时说明：此前VPC-14228被报为转录拮抗剂，而在作者22Rv1体系中它增强AR转录活性（SI S1a）。因此，摘要中的non-inhibitory或non-functional措辞不能据此解释为无功能。",
+    "pdb": [],
+    "functional_status": "有抑制或激活的情境依赖报道；均不满足无功能效应。",
+    "site_status": "DNA-binding domain本身属于功能区域，具体小分子位点尚未核查。",
+    "occlusion": "G0；EST1140产生降解及稳定性变化，不是已证实的诱导阻挡。",
+    "gaps": [
+      "不同体系结果有方向差异，不能挑选单一“non-inhibitory”标签。",
+      "本轮未核实母体与AR共结构。"
+    ],
+    "next": "排除VPC-14228作为严格silent binder；AR其他位点仍保留在总池。"
+  },
+  {
+    "gene": "PTPN2",
+    "name": "TCPTP / PTPN2",
+    "ligand": "BGP-1900",
+    "chemistry": "共价小分子（公开结构待查）",
+    "tier": "线索，尚不能正式归B",
+    "site_evidence": "未定位；摘要仅称独特cysteine",
+    "review_depth": "会议摘要初查",
+    "priority": "高：值得查公开海报/原始数据",
+    "sources": [
+      "S12"
+    ],
+    "facts": "2025年AACR相关会议摘要将BGP-1900描述为PTPN2的silent binder，可用于PROTAC探索。本轮没有取得足够原始数据以核实结合强度、残基编号或功能阴性条件。",
+    "pdb": [],
+    "functional_status": "仅作者摘要标签；尚无可核查曲线。",
+    "site_status": "未知；不猜测是哪一个Cys。",
+    "occlusion": "G0；无依据。",
+    "gaps": [
+      "缺化学结构、具体位点、结合参数、功能曲线和完整海报。",
+      "商业数据库把它泛标为inhibitor，与会议摘要冲突；数据库分类不作为结论。"
+    ],
+    "next": "查会议海报、公司公开材料与公开专利，再回到原始实验；不联系作者或公司。"
+  },
+  {
+    "gene": "USP7",
+    "name": "USP7",
+    "ligand": "新非抑制性配体（母体编号未确认；WJ045是DUBTAC）",
+    "chemistry": "待原文核实",
+    "tier": "线索，尚不能正式归B",
+    "site_evidence": "未确认",
+    "review_depth": "预印本摘要初查",
+    "priority": "高：新的非抑制性DUB线索",
+    "sources": [
+      "S13"
+    ],
+    "facts": "2026年9月预印本作者摘要报告非抑制性USP7配体，并将其用于CFTR稳定化DUBTAC WJ045。本轮原站访问受限，仅取得摘要转载，不能将其视为全文审查。",
+    "pdb": [],
+    "functional_status": "只有摘要报告；浓度、底物、占有率未核实。",
+    "site_status": "未知；不能借用已知USP7抑制剂共晶来定位这款新配体。",
+    "occlusion": "G0；WJ045稳定化现象不证明遮挡。",
+    "gaps": [
+      "预印本未同行评议；原文与SI尚未取得。",
+      "WJ045不是母体silent binder名称。"
+    ],
+    "next": "优先取得合法可访问的原文/SI并核对母体化学结构、位点与功能数据。"
+  },
+  {
+    "gene": "CA9",
+    "name": "Carbonic anhydrase IX",
+    "ligand": "Sucrose",
+    "chemistry": "糖类弱结合线索",
+    "tier": "C（构建体限制；不作为合格人源CAIX配对）",
+    "site_evidence": "S1但对象是工程化CAII模拟体",
+    "review_depth": "原文与PDB书目信息初审",
+    "priority": "低到中：入口结合的文献线索",
+    "sources": [
+      "S15",
+      "S19"
+    ],
+    "facts": "2015年论文在工程化CAII构成的CAIX mimic中观察到蔗糖结合，并报告不抑制所测酶活。作者将其描述为活性区入口附近、与底物结合位置不同的结合。PDB 4YWP确认是工程化体系，不能当作野生型CAIX证据。",
+    "pdb": [
+      {
+        "id": "4YWP",
+        "role": "CAIX mimic–sucrose共晶",
+        "note": "工程化CAII；论文约1.5 Å，PDB当前页面1.45 Å。"
+      }
+    ],
+    "functional_status": "有不抑制报告；需补占有率/溶液亲和力及原始实验条件。",
+    "site_status": "不能由入口非抑制结合证明位点完全非功能；功能入口周边残基也可能重要。",
+    "occlusion": "G1，仅沿用作者“入口”描述；没有R招募阻挡证据。",
+    "gaps": [
+      "mimic不能替代野生型CAIX。",
+      "缺可用的定量亲和力和可衍生化配体验证。",
+      "胞外定位使R选择与胞内方案不同。"
+    ],
+    "next": "查野生型CAIX中蔗糖结合/功能数据；不将sucralose等抑制性类似物混入。"
+  },
+  {
+    "gene": "EGFR",
+    "name": "EGFR",
+    "ligand": "EgB4 nanobody",
+    "chemistry": "蛋白配体（仅参考）",
+    "tier": "R／超出小分子范围",
+    "site_evidence": "S1（复合物）；功能筛选需追溯",
+    "review_depth": "原文与PDB书目初查",
+    "priority": "低：位点验证参照",
+    "sources": [
+      "S16",
+      "S20"
+    ],
+    "facts": "2022年结构论文研究非激动、非拮抗的EgB4 nanobody，并报告EGFR–EGF–EgB4复合物。共存支持不直接排斥EGF，但EgB4是蛋白配体，不能当作可直接用于常规双功能小分子的靶向端。",
+    "pdb": [
+      {
+        "id": "7OM4",
+        "role": "EGFR–EGF–EgB4复合物",
+        "note": "7OM5是单独EgB4，不应误记成靶点–配体复合物。"
+      }
+    ],
+    "functional_status": "文献描述非激动/非拮抗；需追溯原始筛选数据，且不能据结构共存证明所有功能均不变。",
+    "site_status": "有位点结构，但全长受体构象功能需独立核查。",
+    "occlusion": "G0；仅非抑制性结合参考。",
+    "gaps": [
+      "配体化学类型超出本轮小分子主线。",
+      "胞外结合，不可与激酶结构域配体混为一谈。"
+    ],
+    "next": "保留为参考；另查EGFR小分子非功能位点。"
+  },
+  {
+    "gene": "ABL1",
+    "name": "ABL1 / BCR–ABL1",
+    "ligand": "GNF-2 / GNF-5 myristate-pocket系列",
+    "chemistry": "常规小分子",
+    "tier": "X（此位点路线）",
+    "site_evidence": "S1＋突变/动力学证据",
+    "review_depth": "原始研究反证核查",
+    "priority": "排除当前路线",
+    "sources": [
+      "S17"
+    ],
+    "facts": "原始研究定位GNF-2于myristate-binding pocket，并证明其通过变构影响ATP区域与BCR–ABL活性。即使某些突变体保留结合却降低药效，也不能把这个已知调控口袋称为非功能位点。",
+    "pdb": [
+      {
+        "id": "3K5V",
+        "role": "作者报告Abl–imatinib–GNF-2共结构",
+        "note": "文献编号；未分析。"
+      }
+    ],
+    "functional_status": "有直接抑制作用，不满足。",
+    "site_status": "已知变构调控位点，不满足。",
+    "occlusion": "G0；不是本任务的silent-site起点。",
+    "gaps": [
+      "必须区分野生型、T315I、孤立结构域、BCR融合及c-Abl。",
+      "较早公司文件对“non-functional”的描述与原始论文证据不一致，不采纳其标签。"
+    ],
+    "next": "排除myristate-pocket路线；ABL1其他位点仍可检索。"
+  },
+  {
+    "gene": "ESRRG",
+    "name": "ERRγ",
+    "ligand": "BPA、ClCH3Ph及相关酚类",
+    "chemistry": "常规小分子",
+    "tier": "X（严格非功能位点路线）",
+    "site_evidence": "共晶/功能配体口袋证据；具体化合物–PDB映射需逐一核实",
+    "review_depth": "原始研究摘要初查",
+    "priority": "排除当前路线",
+    "sources": [
+      "S18",
+      "S23"
+    ],
+    "facts": "原始论文描述部分酚类配体在共激活因子募集实验中表现为functionally silent，并与4-hydroxytamoxifen竞争。它们占据受体的配体结合口袋，不能仅因一个功能实验阴性便称为非功能位点。",
+    "pdb": [
+      {
+        "id": "2P7A",
+        "role": "3-methyl phenol共晶的书目线索",
+        "note": "不能把2P7A直接当作BPA或ClCH3Ph结构。"
+      }
+    ],
+    "functional_status": "部分读数阴性，但不能排除对其他配体、共调控因子或条件的作用。",
+    "site_status": "功能性ligand-binding pocket，与用户条件不符。",
+    "occlusion": "G0。",
+    "gaps": [
+      "每个化合物应分别对应亲和力、功能和PDB，不混用。"
+    ],
+    "next": "保留为“功能阴性≠非功能位点”的反例；不优先推进此口袋。"
+  }
+]

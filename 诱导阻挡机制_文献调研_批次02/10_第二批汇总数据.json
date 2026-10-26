@@ -1,0 +1,389 @@
+{
+  "date": "2026-10-26",
+  "rows": [
+    [
+      "UCHL1",
+      "C",
+      "cyanoacrylamide fragments",
+      "位点未知；编号待SI核对",
+      "https://doi.org/10.1016/j.slasd.2024.100198"
+    ],
+    [
+      "USP14",
+      "X",
+      "IU1系列",
+      "已知底物通道阻挡，单体抑制",
+      "https://doi.org/10.1038/s41422-018-0091-x"
+    ],
+    [
+      "USP1",
+      "X",
+      "TNG348",
+      "功能性变构位点",
+      "https://doi.org/10.1158/1535-7163.MCT-24-0515"
+    ],
+    [
+      "USP28",
+      "X",
+      "CT1073/KL9",
+      "母体抑制剂；KL9共结构7TUO",
+      "https://pubmed.ncbi.nlm.nih.gov/40214647/"
+    ],
+    [
+      "USP15",
+      "R",
+      "RapTag融合体系",
+      "标签配体，不是USP15内源位点",
+      "https://doi.org/10.26508/lsa.202503563"
+    ],
+    [
+      "VHL",
+      "C",
+      "WJ3004/compound8",
+      "位点及天然功能阴性待核实",
+      "https://doi.org/10.1021/jacs.5c07307"
+    ],
+    [
+      "PTPN22",
+      "C",
+      "compound2/pocket1",
+      "9YDM共结构；非功能性未证实",
+      "https://doi.org/10.1021/acsomega.5c11028"
+    ],
+    [
+      "PTPN5",
+      "X/位点线索",
+      "CoBrA/C518",
+      "9EEZ；配体整体抑制",
+      "https://doi.org/10.1002/prot.70013"
+    ],
+    [
+      "IDH1",
+      "X严格位点",
+      "变体抑制剂结合WT",
+      "条件性变构效应",
+      "https://doi.org/10.1021/acs.jmedchem.3c00203"
+    ],
+    [
+      "PTPN6",
+      "X",
+      "M029",
+      "C480功能性变构",
+      "https://doi.org/10.1002/anie.202525126"
+    ],
+    [
+      "PTPN11",
+      "X",
+      "latch-site系列",
+      "母体与非共价对应物有抑制",
+      "https://doi.org/10.1021/acs.jmedchem.6c01030"
+    ],
+    [
+      "DUSP6",
+      "X",
+      "BCI",
+      "位点预测；功能阳性",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2771339/"
+    ],
+    [
+      "DUSP1",
+      "X",
+      "BCI",
+      "位点预测；功能阳性",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2771339/"
+    ],
+    [
+      "PPP3CA",
+      "X/结合不足",
+      "CN585/CN675",
+      "CN585抑制；CN675结合未证明",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2804347/"
+    ],
+    [
+      "RNF114",
+      "X",
+      "EN219",
+      "C8；抑制天然底物泛素化",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8052289/"
+    ],
+    [
+      "RNF4",
+      "C/争议",
+      "TRH1-23/CCW16",
+      "位点争议；非功能性不足",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12635392/"
+    ],
+    [
+      "DCAF16",
+      "C",
+      "KB02/YY4等",
+      "位点及天然底物功能阴性不足",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11973735/"
+    ]
+  ],
+  "logs": [
+    {
+      "date": "2026-10-26",
+      "type": "keyword",
+      "queries": [
+        "\"silent binder\" protein ligand non inhibitory",
+        "\"non-inhibitory fragments\" protein",
+        "\"nonfunctional site\" ligand binding",
+        "\"binders\" \"no inhibition\" \"fragment\" enzyme"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "keyword_and_target",
+      "queries": [
+        "\"non-inhibitory\" \"fragment\" \"pocket\" protein",
+        "\"silent allosteric\" ligand enzyme",
+        "\"non-inhibitory\" \"SHP2\" ligand",
+        "\"non-inhibitory\" \"phosphatase\" ligand -PTP1B"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "mixed",
+      "queries": [
+        "PTPN22 fragment screening non inhibitory binding site",
+        "STEP PTPN5 fragment screening non inhibitory",
+        "\"non-inhibitory\" \"kinase\" \"fragment\"",
+        "\"silent\" \"binding\" \"fragment\" \"LDHA\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "\"Targeting PTPN22\" \"compound 2\" \"KD\"",
+        "\"Targeting PTPN22\" \"9YG\" \"inhibition\"",
+        "\"Three STEPs forward\" \"CoBrA\" \"activity\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC12824787/ \"9\" \"compound 2\"",
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC12824787/ \"affinity\" \"inhibition\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "\"Targeting PTPN22 at Nonorthosteric\"",
+        "\"PTPN22\" \"9YG4\"",
+        "\"PTPN22\" \"compound 7\" \"375\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "mixed",
+      "queries": [
+        "PTPN22 nonorthosteric 9YG0 9YG1 9YG2 compound affinity",
+        "\"PTPN22\" \"compound 2\" \"μM\" fragment",
+        "\"IDH1\" \"Differentiating Inhibition\" \"Kd\"",
+        "\"bystander\" \"fragment\" protein binding site"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target",
+      "queries": [
+        "\"SHP1\" \"fragment\" \"binding\" allosteric",
+        "\"DUSP6\" \"non-inhibitory\"",
+        "\"DUSP1\" \"fragment\" binding ligand",
+        "\"calcineurin\" \"non-inhibitory\" ligand"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "DUSP6 BCI allosteric inhibitor binding site experimental structure",
+        "DUSP1 MKP1 ligand fragment binding noncatalytic site",
+        "PTPN22 \"compound 2\" \"SPR\" \"Table 2\"",
+        "PTPN22 \"compound 7\" \"affinity\" \"μM\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "mixed",
+      "queries": [
+        "\"PTPN22\" \"compound 2\" \"K\" \"nonorthosteric\"",
+        "\"noninhibitory\" ligand \"PRMT\"",
+        "\"non-inhibitory\" ligand \"PARP\"",
+        "\"non-inhibitory\" ligand \"LDH\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target",
+      "queries": [
+        "\"RNF126\" \"non-inhibitory\" ligand",
+        "\"DCAF16\" \"non-inhibitory\" ligand",
+        "\"RNF114\" \"EN219\" activity",
+        "\"RNF4\" \"CCW16\" \"activity\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "\"Ward\" \"RNF4\" \"2019\" \"2430\"",
+        "\"DCAF16\" \"KB02\" \"cysteines\" ligand",
+        "\"RNF126\" \"fumarate\" \"C32\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "mixed",
+      "queries": [
+        "\"non-inhibitory\" \"FIH\" ligand",
+        "\"non-inhibitory\" \"FTO\" ligand",
+        "\"non-inhibitory\" \"fragment\" binding enzyme -PTPN22 -PTP1B -UCHL1",
+        "\"nonfunctional\" \"pocket\" ligand fragment -receptor"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "keyword",
+      "queries": [
+        "\"Allosteric PROTACs\" \"nonfunctional\"",
+        "\"nonfunctional binders\" \"steric\"",
+        "\"innocent ligand\" enzyme binding"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "\"UCHL1\" \"cyanoacrylamides\" \"100198\"",
+        "\"PTPN22\" \"9YDM\" affinity"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target",
+      "queries": [
+        "\"non-inhibitory\" \"PRMT1\"",
+        "\"non-inhibitory\" \"SETD2\"",
+        "\"non-inhibitory\" \"PARG\" ligand",
+        "\"non-inhibitory\" \"FEN1\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target",
+      "queries": [
+        "\"VCP\" \"non-inhibitory\" ligand",
+        "\"HSP90\" \"non-inhibitory\" binder",
+        "\"LDHA\" fragment \"binding sites\"",
+        "\"FEN1\" fragment \"binding\" crystal"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "mixed",
+      "queries": [
+        "\"Exploration of protein degradability\" \"PRMT5\" \"covalent\"",
+        "\"Structural Evidence for Isoform-Selective Allosteric\" \"6\" PDB",
+        "\"Hsp90\" \"silent\" ligand binding",
+        "\"p97\" \"non-inhibitory\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "\"PRMT5\" \"group-transfer\" \"C449\"",
+        "\"Structural Evidence for Isoform-Selective Allosteric Inhibition\" \"6\" \"deposited\"",
+        "\"FEN1\" \"N-hydroxyurea\" crystal inhibitor"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target",
+      "queries": [
+        "\"non-inhibitory\" \"CDK2\" ligand",
+        "\"non-inhibitory\" \"ERK2\" ligand",
+        "\"non-inhibitory\" \"BTK\" ligand",
+        "\"non-inhibitory\" \"AKT\" ligand"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC10789733/ \"Laxiflorin A\" \"ERK2\"",
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC10789733/ \"Cys-178\"",
+        "\"CDK2\" \"allosteric\" \"fragment\" \"ANS\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "\"Detection of secondary binding sites in proteins using fragment screening\"",
+        "\"Laxiflorin A\" \"ERK\" \"kinase activity\"",
+        "\"CDK2\" \"6-BAP\" \"2011\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "keyword_followup",
+      "queries": [
+        "\"HSP70\" \"cryptic\" \"SPR\" fragment binding site",
+        "\"Detection of secondary binding sites\" \"CDK2\" \"PDB\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "keyword_followup",
+      "queries": [
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC4703025/ \"HSP90\" \"SETD2\" \"compound\"",
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC4703025/ \"PKM2\" \"HSPA2\" \"PDB\"",
+        "\"5FP5\" \"5FP6\" CDK2",
+        "\"SETD2\" \"secondary\" fragment ligand"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "SETD2 fragment secondary binding site Ludlow 2015 ligand",
+        "HSP90A secondary binding site Ludlow fragment 2015",
+        "\"ERK2\" \"secondary\" \"Ludlow\"",
+        "\"PKM2\" \"fragment\" \"non-inhibitory\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "keyword_followup",
+      "queries": [
+        "\"Fragment Screening Identifies Novel Allosteric Binders\" activity",
+        "site:journals.iucr.org/m/issues/2025/02/00/mah5001/ \"secondary\"",
+        "site:journals.iucr.org/m/issues/2025/02/00/mah5001/ \"surface\" \"activity\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC11822521/ \"F19\" \"site\" \"KD\"",
+        "site:pmc.ncbi.nlm.nih.gov/articles/PMC12743321/ \"F19\""
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "type": "target_followup",
+      "queries": [
+        "\"VHR\" \"F19\" \"inhibition\"",
+        "\"VHR\" \"F19\" \"affinity\"",
+        "\"Identification of target sites in the VHR\" \"inhibition\""
+      ]
+    }
+  ]
+}

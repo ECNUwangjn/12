@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "Q001",
+    "date": "2026-10-26",
+    "batch": "discovery-01",
+    "queries": [
+      "\"non-inhibitory\" \"ligand\" \"crystal\"",
+      "\"silent binders\" protein ligand",
+      "\"non-functional\" \"binding site\" fragment protein",
+      "\"non-inhibitory\" \"binding\" \"PROTAC\"",
+      "\"non-inhibitory\" \"fragment\" kinase",
+      "\"silent\" \"binder\" \"PDB\"",
+      "\"functionally silent\" ligand protein",
+      "\"non-inhibitory\" \"covalent\" ligand"
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "ARTICLE IN PRESS",
+        "url": "https://www.nature.com/articles/s41467-026-68941-z_reference.pdf"
+      },
+      {
+        "title": "Developments and challenges in hit progression within fragment-based drug discovery - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12963627/"
+      },
+      {
+        "title": "DRS",
+        "url": "https://www.sec.gov/Archives/edgar/data/1655759/000095012318006464/filename1.htm"
+      },
+      {
+        "title": "Targeted Degradation of 53BP1 Using Ubiquitin Variant Induced Proximity",
+        "url": "https://www.mdpi.com/2218-273X/12/4/479/pdf?version=1647941048"
+      },
+      {
+        "title": "Targeted protein degradation using chimeric human E2 ubiquitin-conjugating enzymes | Communications Biology",
+        "url": "https://doi.org/10.1038/S42003-024-06803-4"
+      },
+      {
+        "title": "Abstract C049: IMTAC™: A proteome-wide live-cell screening platform for discovering covalent binders to diverse targets including GPCRs, phosphatases, and more | Molecular Cancer Therapeutics | American Association for Cancer Research",
+        "url": "https://aacrjournals.org/mct/article/24/10_Supplement/C049/766605/Abstract-C049-IMTACT-A-proteome-wide-live-cell"
+      },
+      {
+        "title": "BMC Molecular and",
+        "url": "https://dbc.library.uu.nl/bitstream/handle/1874/425087/Structural_insights_into_the_non_inhibitory_mechanism_of_the_anti_EGFR_EgB4_nanobody.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "Vrije Universiteit Brussel",
+        "url": "https://cris.vub.be/ws/portalfiles/portal/114530561/112888206.pdf"
+      },
+      {
+        "title": "Lessons in PROTAC design from selective degradation with a promiscuous warhead",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5777153/"
+      },
+      {
+        "title": "Proteolysis‐Targeting Chimera (PROTAC): Current Applications and Future Directions - Fan - 2025 - MedComm - Wiley Online Library",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/mco2.70401"
+      },
+      {
+        "title": "Potential impact of Allosteric Drugs on Cancers, Neurodegenerative Diseases",
+        "url": "https://gaintherapeutics.com/perspectives/potential-impact-of-allosteric-drugs-on-cancers-neurodegenerative-diseases-and-other-serious-diseases/"
+      },
+      {
+        "title": "WO2024027755A1 - Protac chimeric compound, preparation method therefor and use thereof - Google Patents",
+        "url": "https://patents.google.com/patent/WO2024027755A1/en"
+      },
+      {
+        "title": "Fulfilling multiple roles in PROTAC design: The emerging potential of oligonucleotides - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7619143/"
+      },
+      {
+        "title": "One-shot design of functional protein binders with BindCraft - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12507698/"
+      },
+      {
+        "title": "Advancing PROTAC therapeutics through chemistry-guided design of smart delivery systems | Acta Pharmacologica Sinica",
+        "url": "https://www.nature.com/articles/s41401-026-01853-2"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes - ScienceDirect",
+        "url": "https://www.sciencedirect.com/org/science/article/pii/S2041652018001232"
+      },
+      {
+        "title": "Can you use a biochemical assay to measure the binding of a \"silent binder\"?",
+        "url": "https://www.reddit.com/r/Biochemistry/comments/1gdo5do"
+      },
+      {
+        "title": "Serpin",
+        "url": "https://en.wikipedia.org/wiki/Serpin"
+      },
+      {
+        "title": "Just crystallized and bound a ligand to my protein crystal seeing every non-H ligand atom in electron density map.",
+        "url": "https://www.reddit.com/r/labrats/comments/1l03fuy"
+      },
+      {
+        "title": "Major histocompatibility complex, class I-related",
+        "url": "https://en.wikipedia.org/wiki/Major_histocompatibility_complex%2C_class_I-related"
+      },
+      {
+        "title": "MS8572 | OTUB1 ligand",
+        "url": "https://www.medkoo.com/products/63117"
+      },
+      {
+        "title": "A processive phosphorylation circuit with multiple kinase inputs and mutually diversional routes controls G1/S decision | Nature Communications",
+        "url": "https://www.nature.com/articles/s41467-020-15685-z"
+      },
+      {
+        "title": "Advances in covalent drug discovery - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/9403961/"
+      },
+      {
+        "title": "Harnessing Covalent Chemical Probes:",
+        "url": "https://escholarship.org/content/qt83z9h9v1/qt83z9h9v1_noSplash_cf5dba8032ebc12907bb5d5c5162b909.pdf?t=riyp2b"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "Receptor Dynamics at the Cell Surface Studied Using Functional Tagging - The Dynamic Synapse - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK2550/?report=printable"
+      },
+      {
+        "title": "PDPS can identify multiple binders at once",
+        "url": "https://www.peptidream.com/en/docs/878cee804776b432f118deca29f4a3dfb18a15fc.pdf"
+      },
+      {
+        "title": "Targeted protein degradation  |",
+        "url": "https://tuprints.ulb.tu-darmstadt.de/26757/1/Dissertation_Thomas_Geiger_final.pdf"
+      },
+      {
+        "title": "Advances in covalent drug discovery",
+        "url": "https://nomuraresearchgroup.com/wp-content/uploads/2022/08/Boike-Henning-Nomura-2022-NRD-review.pdf"
+      },
+      {
+        "title": "The Taxonomy of Covalent Inhibitors",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6016374/"
+      },
+      {
+        "title": "Structural determination of estrogen-related receptor γ in the presence of phenol derivative compounds - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960076007002361"
+      },
+      {
+        "title": "An optimized RNF126-targeting covalent handle for molecular glue degraders - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960894X26002106"
+      },
+      {
+        "title": "OneScience-Group/dl_binder_design · Hugging Face",
+        "url": "https://huggingface.co/OneScience-Group/dl_binder_design"
+      },
+      {
+        "title": "Comparing the functional roles of nonconserved sequence positions in homologous transcription repressors: implications for sequence/function analyses - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19818797/"
+      },
+      {
+        "title": "Covalent Lipid Pocket Ligands Targeting p38α MAPK Mutants - Lookchem",
+        "url": "https://www.lookchem.com/FreePDFArticle_26059-83-6_72364209.htm"
+      },
+      {
+        "title": "Input and Output Formats | nrbennet/dl_binder_design | DeepWiki",
+        "url": "https://deepwiki.com/nrbennet/dl_binder_design/5.3-input-and-output-formats"
+      },
+      {
+        "title": "Serpin",
+        "url": "https://en.wikipedia.org/wiki/Serpin"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q002",
+    "date": "2026-10-26",
+    "batch": "discovery-02",
+    "queries": [
+      "\"Non-competitive cyclic peptides\" \"PHD2\"",
+      "\"Getting a Grip on the Undrugged\" beta catenin",
+      "\"Discovery of Non-Inhibitory Macrocyclic Ligands\" PTP1B",
+      "OTUB1 EN523 MS5105 MS8572 crystal structure C23 non inhibitory"
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes‡ ‡Electronic supplementary information (ESI) available. See DOI: 10.1039/c8sc00286j",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5969509/"
+      },
+      {
+        "title": "Discovery of New OTUB1 Covalent Ligands via Structure-activity Relationship Studies for Targeted Protein Stabilization - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13188352/"
+      },
+      {
+        "title": "Deubiquitinase-Targeting Chimeras for Targeted Protein Stabilization - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125259/"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes",
+        "url": "https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc00286j"
+      },
+      {
+        "title": "UC Berkeley",
+        "url": "https://escholarship.org/content/qt4kw431v6/qt4kw431v6.pdf"
+      },
+      {
+        "title": "Research - Kawamura Research Group",
+        "url": "https://kawamuraresearchgroup.com/research"
+      },
+      {
+        "title": "EN523 Documentation Hub | BenchChem",
+        "url": "https://www.benchchem.com/product/B15582561/docs"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "EN523 ≥98% (HPLC) | Sigma-Aldrich",
+        "url": "https://www.sigmaaldrich.com/KR/en/product/sigma/sml3503"
+      },
+      {
+        "title": "TF-DUBTACs Targeting Undruggable Proteins - BOC Sciences",
+        "url": "https://ptc.bocsci.com/resource/tf-dubtac-technology-for-undruggable-targets.html"
+      },
+      {
+        "title": "From concept to application: Exploring the evolution and potential of DUBTAC technology - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12891886/"
+      },
+      {
+        "title": "Selective Modulation of OTUB1 Noncanonical Function via a bioPhosTAC Strategy - Seo - Advanced Science - Wiley Online Library",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77265"
+      },
+      {
+        "title": "Deubiquitinases as novel therapeutic targets for diseases",
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mco2.70036"
+      },
+      {
+        "title": "Otub1 - Ubiquitin thioesterase OTUB1 - Mus musculus (Mouse) | UniProtKB",
+        "url": "https://www.uniprot.org/uniprotkb/Q7TQI3/entry"
+      },
+      {
+        "title": "Inhibiting E2s | Nature Structural & Molecular Biology",
+        "url": "https://www.nature.com/articles/nsmb.2264"
+      },
+      {
+        "title": "EGLN1",
+        "url": "https://en.wikipedia.org/wiki/EGLN1"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q003",
+    "date": "2026-10-26",
+    "batch": "primary-01",
+    "queries": [],
+    "opened": [
+      "https://d-nb.info/1227597614/34",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125259/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5969509/"
+    ],
+    "find": [],
+    "hits": [
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "Checking your browser - reCAPTCHA",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "Checking your browser - reCAPTCHA",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125259/"
+      },
+      {
+        "title": "Checking your browser - reCAPTCHA",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5969509/"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q004",
+    "date": "2026-10-26",
+    "batch": "primary-02",
+    "queries": [
+      "\"Discovery of Non-Inhibitory Macrocyclic Ligands\" \"2026\"",
+      "\"Getting a Grip\" \"6\" \"PDB\" catenin",
+      "\"PTP1B\" \"macrocycle 7\" \"inhibition\"",
+      "\"non-inhibitory\" \"ligand\" \"crystal structure\" enzyme -nanobody -antibody -aptamer"
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "The assessment of sulfonylcalix[4]arene derivatives as inhibitors of protein tyrosine phosphatases | Journal of Organic and Pharmaceutical Chemistry",
+        "url": "https://ophcj.nuph.edu.ua/article/view/ophcj.18.947"
+      },
+      {
+        "title": "AID 1624389 - Inhibition of recombinant human N-terminal GST-tagged MEG2 catalytic domain (285 to 593 residues) expressed in Escherichia coli using p-nitrophenol as substrate preincubated with substrate for 5 mins followed by enzyme addition - PubChem",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1624389/"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "Publications | BL: SLS/PXII | PSI",
+        "url": "https://www.psi.ch/en/sls/pxii/pxii-publications"
+      },
+      {
+        "title": "BMC Molecular and",
+        "url": "https://dbc.library.uu.nl/bitstream/handle/1874/425087/Structural_insights_into_the_non_inhibitory_mechanism_of_the_anti_EGFR_EgB4_nanobody.pdf?isAllowed=y&sequence=1"
+      },
+      {
+        "title": "Medicinal Chemistry · The Pharma Digest",
+        "url": "https://www.pharmadigest.net/en/medchem/"
+      },
+      {
+        "title": "Structural insights into the non-inhibitory mechanism of the anti-EGFR EgB4 nanobody | BMC Molecular and Cell Biology | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1186/s12860-022-00412-x"
+      },
+      {
+        "title": "Medicinal and Biomolecular Chemistry articles | Nature Index",
+        "url": "https://preview-www.nature.com/nature-index/topics/medicinal-and-biomolecular-chemistry/articles"
+      },
+      {
+        "title": "PowerPoint Presentation",
+        "url": "https://www.ucc.ie/en/media/academic/schoolofengineering/documents/BookletWIthPosters.pdf"
+      },
+      {
+        "title": "Vrije Universiteit Brussel",
+        "url": "https://cris.vub.be/ws/portalfiles/portal/114530561/112888206.pdf"
+      },
+      {
+        "title": "Molecules 2020, 25, 3145 — 6 of 21",
+        "url": "https://www.mdpi.com/1420-3049/25/14/3145/pdf?version=1594377550"
+      },
+      {
+        "title": "Synthesis and Structural Modification of Marine Natural Products",
+        "url": "https://www.mdpi.com/1420-3049/22/6/882"
+      },
+      {
+        "title": "Emerging novel concept of chaperone therapies for protein misfolding diseases",
+        "url": "https://www.jstage.jst.go.jp/article/pjab/90/5/90_145/_html/-char/ja/"
+      },
+      {
+        "title": "potent selective inhibitors: Topics by Science.gov",
+        "url": "https://www.science.gov/topicpages/p/potent%2Bselective%2Binhibitors.html"
+      },
+      {
+        "title": "Publications",
+        "url": "https://graylab.stanford.edu/publications/"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q005",
+    "date": "2026-10-26",
+    "batch": "discovery-03",
+    "queries": [
+      "\"non-inhibitory\" \"ligand\" kinase -Sic1 -review -patent",
+      "\"non-inhibitory\" \"USP7\"",
+      "\"non-functional\" \"pocket\" ligand crystal",
+      "\"silent binder\" -site:reddit.com -review -PROTACs",
+      "\"BRD4\" \"fragment\" \"non-canonical\"",
+      "\"carbonic anhydrase\" \"non-inhibitory\"",
+      "\"androgen receptor\" \"non-inhibitory\" ligand",
+      "\"non-inhibitory\" \"PHD2\" \"structure\""
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "Ubiquitin-specific protease 7 (USP7): a key deubiquitinase governing tumor progression and therapeutic vulnerabilities | Cancer Cell International | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1186/s12935-026-04483-0"
+      },
+      {
+        "title": "Hit finding & screening · The Pharma Digest",
+        "url": "https://pharmadigest.net/en/topics/hit-finding/"
+      },
+      {
+        "title": "From concept to application: Exploring the evolution and potential of DUBTAC technology - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12891886/"
+      },
+      {
+        "title": "Identification of a non-inhibitory aptameric ligand to CRL2ZYG11B E3 ligase for targeted protein degradation",
+        "url": "https://www.nature.com/articles/s41467-025-57823-5.pdf"
+      },
+      {
+        "title": "Developments and challenges in hit progression within fragment-based drug discovery - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12963627/"
+      },
+      {
+        "title": "(12) INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT)",
+        "url": "https://patentimages.storage.googleapis.com/48/01/04/a9f534806c1634/AU5477600A.pdf"
+      },
+      {
+        "title": "Deciphering DEL pocket patterns through contrastive learning",
+        "url": "https://www.nature.com/articles/s41467-026-69663-y.pdf"
+      },
+      {
+        "title": "The emerging role of E3 ubiquitin ligases and deubiquitinases in metabolic dysfunction-associated steatotic liver disease | springermedizin.de",
+        "url": "https://www.springermedizin.de/the-emerging-role-of-e3-ubiquitin-ligases-and-deubiquitinases-in/50791244"
+      },
+      {
+        "title": "Please do not remove this page",
+        "url": "https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01UOML_INST/upload/1776278031954/jpt55S22.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJUYRSPBSIJGGDX6A%2F20260415%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260415T183352Z&X-Amz-Expires=86399&X-Amz-Signature=b973efcd9909616fb1431956a787d3f992c7290c8b12502089c68a22f1f11821&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B+filename%3D%22jpt55S22.pdf%22%3B+filename%2A%3DUTF-8%27%27jpt55S22.pdf&response-content-type=application%2Fpdf"
+      },
+      {
+        "title": "Ubiquitination and deubiquitination in cancer: from mechanisms to novel therapeutic approaches | Molecular Cancer | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1186/s12943-024-02046-3"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "Post-translational modifications in Neuroimmune cells during neuroinflammation: integrated regulatory networks and therapeutic opportunities | Biology Direct | Springer Nature Link",
+        "url": "https://link.springer.com/article/10.1186/s13062-026-00974-2"
+      },
+      {
+        "title": "Deubiquitinase | DUBs | MedChemExpress",
+        "url": "https://www.medchemexpress.com/Targets/Deubiquitinase.html"
+      },
+      {
+        "title": "Targeted recruitment of USP15 enhances CTLA4 surface levels and restricts its degradation - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12827578/"
+      },
+      {
+        "title": "(PDF) Development and applications of chimera platforms for tyrosine phosphorylation",
+        "url": "https://www.researchgate.net/publication/369103447_Development_and_applications_of_chimera_platforms_for_tyrosine_phosphorylation"
+      },
+      {
+        "title": "UC Berkeley",
+        "url": "https://escholarship.org/content/qt1w40c1v9/qt1w40c1v9.pdf"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "Deubiquitinases as novel therapeutic targets for diseases - Xian - 2024 - MedComm - Wiley Online Library",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/mco2.70036"
+      },
+      {
+        "title": "The free energy landscape of GABA binding to a pentameric ligand-gated ion channel and its disruption by mutations",
+        "url": "https://arxiv.org/abs/1604.03409"
+      },
+      {
+        "title": "Major histocompatibility complex, class I-related",
+        "url": "https://en.wikipedia.org/wiki/Major_histocompatibility_complex%2C_class_I-related"
+      },
+      {
+        "title": "Structural Features and Inhibitors of Bromodomains - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5325140/"
+      },
+      {
+        "title": "Cloning, purification, kinetic and anion inhibition studies of a recombinant β-carbonic anhydrase fr",
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/14756366.2022.2080818"
+      },
+      {
+        "title": "Vol. 40 — **KINETICS OF CARBONIC ANHYDRASE** — 327",
+        "url": "https://portlandpress.com/biochemj/article-pdf/40/2/319/719381/bj0400319.pdf"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes‡ ‡Electronic supplementary information (ESI) available. See DOI: 10.1039/c8sc00286j",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5969509/"
+      },
+      {
+        "title": "Acta Crystallographica Section F",
+        "url": "https://www.osti.gov/servlets/purl/1343505"
+      },
+      {
+        "title": "Targeting non-canonical activation of GLI1 by the SOX2-BRD4 transcriptional complex improves the efficacy of HEDGEHOG pathway inhibition in melanoma",
+        "url": "https://www.nature.com/articles/s41388-021-01783-9.pdf"
+      },
+      {
+        "title": "pH-Activity Curve of Bovine Carbonic Anhydrase | PDF | Buffer Solution | Enzyme Inhibitor",
+        "url": "https://www.scribd.com/document/962143725/1-s2-0-0005278765905939-main"
+      },
+      {
+        "title": "Androgen Physiology: Receptor and Metabolic Disorders - Endotext - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279028/"
+      },
+      {
+        "title": "Human monoclonal antibodies targeting carbonic anhydrase IX for the molecular imaging of hypoxic regions in solid tumours",
+        "url": "https://www.nature.com/articles/6605200.pdf"
+      },
+      {
+        "title": "The Glitazone Class of Drugs as Carbonic Anhydrase Inhibitors—A Spin-Off Discovery from Fragment Screening",
+        "url": "https://www.mdpi.com/1420-3049/26/10/3010/pdf?version=1621419250"
+      },
+      {
+        "title": "GEO Accession viewer",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2495657"
+      },
+      {
+        "title": "Physiology, Cellular Receptors - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK554403/"
+      },
+      {
+        "title": "Receptor-mediated mechanisms - Tumour Site Concordance and Mechanisms of Carcinogenesis - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK570344/"
+      },
+      {
+        "title": "Human monoclonal antibodies targeting carbonic anhydrase IX for the molecular imaging of hypoxic regions in solid tumours - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/2736829/"
+      },
+      {
+        "title": "Targeting non-canonical activation of GLI1 by the SOX2-BRD4 transcriptional complex improves the efficacy of HEDGEHOG pathway inhibition in melanoma | Oncogene",
+        "url": "https://www.nature.com/articles/s41388-021-01783-9"
+      },
+      {
+        "title": "Targeting the Androgen Receptor with Steroid Conjugates | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/jm500101h"
+      },
+      {
+        "title": "Compound Names in Binding Database",
+        "url": "https://bdb8.ucsd.edu/rwd/bind/ByTargetsLigands.jsp?nBindingData=57&submit=Search"
+      },
+      {
+        "title": "Molecular Glue Degraders Redefining Targeted Therapies From Discovery to Therapeutic Applications - Wen - 2026 - MedComm – Oncology - Wiley Online Library",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/mog2.70058"
+      },
+      {
+        "title": "Constitutive androstane receptor",
+        "url": "https://en.wikipedia.org/wiki/Constitutive_androstane_receptor"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q006",
+    "date": "2026-10-26",
+    "batch": "lead-followup-01",
+    "queries": [
+      "\"USP7\" \"WJ045\"",
+      "\"noninhibitory\" \"USP7\" ligand screening",
+      "\"DCAF1\" \"SDIPTAC\" ligand",
+      "\"androgen receptor\" \"non-inhibitory ligand\"",
+      "\"p38\" \"lipid pocket\" \"non\" activity ligands",
+      "\"BGP-1900\" PTPN2",
+      "\"catenin\" \"cmdc.202000839\" PDB",
+      "\"PTP1B\" \"6c07205\" inhibition binding site"
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "A Proximity-Driven Functional Screening Platform for the Discovery of Noninhibitory USP7 Ligand Enabling Targeted Protein Stabilization | Sciety",
+        "url": "https://sciety.org/articles/activity/10.64898/2026.09.10.750156"
+      },
+      {
+        "title": "RCSB PDB - 9ZLE: Crystal structure of DCAF1 in complex with SDIPTAC C8",
+        "url": "https://www1.rcsb.org/structure/9ZLE"
+      },
+      {
+        "title": "ISDA: Search",
+        "url": "https://ibdc.dbt.gov.in/isda/search/?query=Al-awar%2C+R&search_type=author_name"
+      },
+      {
+        "title": "9ZL9: Crystal structure of DCAF1 in complex with SDIPTAC C7",
+        "url": "https://www.ncbi.nlm.nih.gov/Structure/pdb/9ZL9"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126"
+      },
+      {
+        "title": "Volume 69 Issue 10 | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/toc/jmcmar/69/10"
+      },
+      {
+        "title": "Ligands for E3 Ligase Substrate, Gene | MedChemExpress",
+        "url": "https://www.medchemexpress.com/Targets/Ligand%20for%20E3%20Ligase/effect/Substrate.html"
+      },
+      {
+        "title": "PDB-9zli: Crystal structure of DCAF1 in complex with SDIPTAC C11 - Yorodumi",
+        "url": "https://pdbj.org/emnavi/quick.php?id=pdb-9zli"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "The Gui lab",
+        "url": "https://weijunguilab.com/"
+      },
+      {
+        "title": "Androgen Physiology: Receptor and Metabolic Disorders - Endotext - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279028/"
+      },
+      {
+        "title": "Physiology, Cellular Receptors - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK554403/"
+      },
+      {
+        "title": "Ubiquitin Engineering for Interrogating the Ubiquitin–Proteasome System and Novel Therapeutic Strategies",
+        "url": "https://www.mdpi.com/2073-4409/12/16/2117/pdf?version=1692615353"
+      },
+      {
+        "title": "Constitutive androstane receptor",
+        "url": "https://en.wikipedia.org/wiki/Constitutive_androstane_receptor"
+      },
+      {
+        "title": "Mapping of dynamic allostery within p38 alpha kinase via network analyses and NMR spectroscopy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594348/"
+      },
+      {
+        "title": "7afw - Beta-Catenin in complex with compound 6 - Summary - Protein Data Bank Japan",
+        "url": "https://pdbj.org/mine/summary/7afw"
+      },
+      {
+        "title": "Structure-based design, synthesis and crystallization of 2-arylquinazolines as lipid pocket ligands of p38#_#x03B1; MAPK",
+        "url": "https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0184627&type=printable"
+      },
+      {
+        "title": "Lipid Pocket Binders Impose Allosteric Changes of Protein Dynamics Around the Active Site of the Protein Kinase p38α",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13053915/"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "BGP-1900 - Drug Targets, Indications, Patents - Synapse",
+        "url": "https://synapse.patsnap.com/drug/70cbe184aeaa4c6096597f4ceda99f92"
+      },
+      {
+        "title": "Targeting the non‐ATP‐binding pocket of the MAP kinase p38γ mediates a novel mechanism of cytotoxicity in cutaneous T‐cell lymphoma (CTCL) - Zhang - 2021 - FEBS Letters - Wiley Online Library",
+        "url": "https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14186"
+      },
+      {
+        "title": "Liganden der Lipidtasche induzieren allosterische Modulation der Proteindynamik im Bereich des aktiven Zentrums der Proteinkinase p38α - Medina Gómez - 2026 - Angewandte Chemie - Wiley Online Library",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202522665"
+      },
+      {
+        "title": "Full article: Design, synthesis, and study of novel phenethyl-based antitumor phospholipids downregulating p38 mitogen-activated protein kinase",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/14756366.2023.2217695"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "A New Pathway for the Preparation of Pyrano[2,3‑c]pyrazoles and molecular Docking as Inhibitors of p38 MAP Kinase | ACS Omega | ACS Publications",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acsomega.2c01814"
+      },
+      {
+        "title": "Intestinal Wnt in the transition from physiology to oncology - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8966512/"
+      },
+      {
+        "title": "Simplified Synthesis of Renieramycin T Derivatives to Target Cancer Stem Cells via β-Catenin Proteasomal Degradation in Human Lung Cancer - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10744608/"
+      },
+      {
+        "title": "PDB-5n65: Crystal Structure of p38alpha in Complex with Lipid Pocket Ligand 9h - Yorodumi",
+        "url": "https://pdbj.org/emnavi/quick.php?id=pdb-5n65"
+      },
+      {
+        "title": "CD36",
+        "url": "https://en.wikipedia.org/wiki/CD36"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q007",
+    "date": "2026-10-26",
+    "batch": "primary-03",
+    "queries": [],
+    "opened": [
+      "https://pubs.acs.org/doi/10.1021/jacs.6c07205",
+      "https://pubs.rsc.org/en/content/articlehtml/2018/sc/c8sc00286j",
+      "https://www.rcsb.org/structure/7AFW",
+      "https://pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126"
+    ],
+    "find": [],
+    "hits": [
+      {
+        "title": "RCSB PDB - 7AFW: Beta-Catenin in complex with compound 6",
+        "url": "https://www.rcsb.org/structure/7AFW"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q008",
+    "date": "2026-10-26",
+    "batch": "evidence-01",
+    "queries": [
+      "site:pubs.acs.org/doi/10.1021/jacs.6c07205 \"inhibit\" \"7\"",
+      "site:pmc.ncbi.nlm.nih.gov/articles/PMC13495358/ \"binding site\"",
+      "site:pmc.ncbi.nlm.nih.gov/articles/PMC10125259/ \"UBE2D2\"",
+      "site:pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126 \"monomer\""
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "Deubiquitinase-targeting chimeras for targeted protein stabilization",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125259/pdf/nihms-1888928.pdf"
+      },
+      {
+        "title": "MUL1‐RING recruits the substrate, p53‐TAD as a complex with UBE2D2–UB conjugate",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9304225/"
+      },
+      {
+        "title": "The ubiquitin-conjugating enzyme UBE2D maintains a youthful proteome and ensures protein quality control during aging by sustaining proteasome activity - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11778781/"
+      },
+      {
+        "title": "Supplemental Data File #2.xls",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/2577891/bin/pone.0003694.s002.pdf"
+      },
+      {
+        "title": "The UBE2D ubiquitin conjugating enzymes: Potential regulatory hubs in development, disease and evolution",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9790923/"
+      },
+      {
+        "title": "The UBE2/E2 ubiquitin-conjugating enzyme family at the interface of tumor biology and antitumor immunity: mechanisms, biomarkers, and therapeutic opportunities - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13290982/"
+      },
+      {
+        "title": "Targeted Protein Degradation through E2 Recruitment - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10127205/"
+      },
+      {
+        "title": "UbcD1 regulates Hedgehog signaling by directly modulating Ci ubiquitination and processing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5666607/"
+      },
+      {
+        "title": "ja3c12221 1..6",
+        "url": "https://pubs.acs.org/doi/pdf/10.1021/jacs.3c12221"
+      },
+      {
+        "title": "Acetylation, Phosphorylation, Ubiquitination (Oh My!): Following Post-Translational Modifications on the Ubiquitin Road - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/8946176/"
+      },
+      {
+        "title": "Examining the Role of Threonine Phosphorylation in Ubiquitin’s Function Using Chemical Protein Synthesis - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12117390/"
+      },
+      {
+        "title": "Structural insights into the catalysis and regulation of E3 ubiquitin ligases - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6211636/"
+      },
+      {
+        "title": "Upregulated Circular RNA circ-UBE2D2 Predicts Poor Prognosis and Promotes Breast Cancer Progression by Sponging miR-1236 and miR-12871",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6657235/"
+      },
+      {
+        "title": "Structural determinants for FAT10 activation and transfer from UBA6 to E2 enzymes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572539/"
+      },
+      {
+        "title": "Design of linked-domain protein inhibitors of UBE2D as tools to study cellular ubiquitination",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11398408/"
+      },
+      {
+        "title": "Ubiquitin‐targeted bacterial effectors: rule breakers of the ubiquitin system",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505922/pdf/EMBJ-42-e114318.pdf"
+      },
+      {
+        "title": "Cell culture, drug treatments, and transfections",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11974958/pdf/mbc-36-ar24.pdf"
+      },
+      {
+        "title": "An E1-E2 fusion protein primes antiviral immune signaling in bacteria",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292035/pdf/nihms-1895126.pdf"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q009",
+    "date": "2026-10-26",
+    "batch": "evidence-02",
+    "queries": [
+      "\"PTP1B\" \"macrocycle\" \"7\" \"DiFMUP\"",
+      "\"PTP1B\" \"6c07205\" \"site\"",
+      "\"SDIPTAC\" \"OICR\"",
+      "\"OTUB1\" \"EN523\" \"E2\" interaction"
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "Discovery of Noninhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy | Journal of the American Chemical Society | ACS Publications",
+        "url": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c07205/5233728/Discovery-of-Noninhibitory-Macrocyclic-Ligands-for"
+      },
+      {
+        "title": "Deubiquitinase-Targeting Chimeras for Targeted Protein Stabilization - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125259/"
+      },
+      {
+        "title": "Discovery of Noninhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy | Journal of the American Chemical Society | ACS Publications",
+        "url": "https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c07205/5233728/Discovery-of-Noninhibitory-Macrocyclic-Ligands-for?searchresult=1"
+      },
+      {
+        "title": "Harnessing Covalent Chemical Probes:",
+        "url": "https://escholarship.org/content/qt83z9h9v1/qt83z9h9v1_noSplash_cf5dba8032ebc12907bb5d5c5162b909.pdf"
+      },
+      {
+        "title": "Deubiquitinase-targeting chimeras for targeted protein stabilization",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125259/pdf/nihms-1888928.pdf"
+      },
+      {
+        "title": "Discovery of Noninhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy | Journal of the American Chemical Society | ACS Publications",
+        "url": "https://https-pubs-acs-org-443.webvpn1.xju.edu.cn/jacsat/article/148/30/32143/5233728/Discovery-of-Noninhibitory-Macrocyclic-Ligands-for"
+      },
+      {
+        "title": "Chemoproteomics-enabled Discovery of Covalent Inhibitors and Novel Induced",
+        "url": "https://escholarship.org/content/qt0f28z56z/qt0f28z56z_noSplash_fbe44f03fc60ab3a17abbbe9e6fc5a1e.pdf"
+      },
+      {
+        "title": "UC Berkeley",
+        "url": "https://escholarship.org/content/qt4kw431v6/qt4kw431v6.pdf"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "Deubiquitinase-targeting chimeras for targeted protein stabilization | Nature Chemical Biology",
+        "url": "https://www.nature.com/articles/s41589-022-00971-2"
+      },
+      {
+        "title": "Discovery of Noninhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy | Journal of the American Chemical Society | ACS Publications",
+        "url": "https://pubs.acs.org/jacsat/article/148/30/32143/5233728/Discovery-of-Noninhibitory-Macrocyclic-Ligands-for"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126"
+      },
+      {
+        "title": "Unraveling the Mechanism of Action of Ubiquitin-Specific Protease 5 and Its Inhibitors in Tumors - Jie Wang, Shizhen Fang, Yang Jiang, Qingquan Hua, 2024",
+        "url": "https://journals.sagepub.com/doi/10.1177/11795549241281932"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6c00126"
+      },
+      {
+        "title": "EN-523 | OTUB1 Recruiter | CAS 2094893-05-5 | Buy from InvivoChem",
+        "url": "https://www.invivochem.com/en-523.html"
+      },
+      {
+        "title": "Discovery of Noninhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy | Journal of the American Chemical Society | ACS Publications",
+        "url": "https://acstest.99885.net/jacsat/article-abstract/148/30/32143/5233728/Discovery-of-Noninhibitory-Macrocyclic-Ligands-for?redirectedFrom=fulltext"
+      },
+      {
+        "title": "Deubiquitinase-targeting chimeras for targeted protein stabilization",
+        "url": "https://nomuraresearchgroup.com/wp-content/uploads/2022/02/Henning-Boike-et-al-2022-NCB.pdf"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q010",
+    "date": "2026-10-26",
+    "batch": "primary-04",
+    "queries": [],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "Structure-based design, synthesis and crystallization of 2-arylquinazolines as lipid pocket ligands of p38α MAPK | PLOS One",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0184627"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q011",
+    "date": "2026-10-26",
+    "batch": "evidence-03",
+    "queries": [
+      "\"PTP1B\" \"macrocycle 7\" \"binding site\"",
+      "\"PTP1B\" \"macrocycle 7\" \"50 μM\"",
+      "\"DCAF1\" \"SDIPTAC\" \"steric\"",
+      "\"A Proximity-Driven Functional Screening Platform\" USP7"
+    ],
+    "opened": [],
+    "find": [
+      {
+        "ref_id": "见本批来源URL索引",
+        "pattern": "A211F"
+      },
+      {
+        "ref_id": "见本批来源URL索引",
+        "pattern": "μM"
+      }
+    ],
+    "hits": [
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "A Proximity-Driven Functional Screening Platform for the Discovery of Noninhibitory USP7 Ligand Enabling Targeted Protein Stabilization | Sciety",
+        "url": "https://sciety.org/articles/activity/10.64898/2026.09.10.750156"
+      },
+      {
+        "title": "The assessment of sulfonylcalix[4]arene derivatives as inhibitors of protein tyrosine phosphatases | Journal of Organic and Pharmaceutical Chemistry",
+        "url": "https://ophcj.nuph.edu.ua/article/view/ophcj.18.947"
+      },
+      {
+        "title": "SCOP 2.04 - JenaLib Tree Browser",
+        "url": "https://jenalib.leibniz-fli.de/cgi-bin/tree_browser.pl?NODE=51349&TYPE=SCOP"
+      },
+      {
+        "title": "Displacement of Vpr by OICR-41103 A A transparent surface... | Download Scientific Diagram",
+        "url": "https://www.researchgate.net/figure/Displacement-of-Vpr-by-OICR-41103-A-A-transparent-surface-representation-of-the-DCAF1-WDR_fig4_393806726"
+      },
+      {
+        "title": "Biblioteca Digital",
+        "url": "https://biblioteca.phorteeducacional.com.br/items?query=Low+molecular+weight+protein+tyrosine+phosphatase"
+      },
+      {
+        "title": "Viacheslav Trush - Independent Researcher",
+        "url": "https://independent.academia.edu/ViacheslavTrush"
+      },
+      {
+        "title": "Synthesis and Structural Modification of Marine Natural Products",
+        "url": "https://www.mdpi.com/1420-3049/22/6/882"
+      },
+      {
+        "title": "US20210405060A1 - Methods and reagents for analyzing protein-protein interfaces - Google Patents",
+        "url": "https://patents.glgoo.top/patent/US20210405060A1/en"
+      },
+      {
+        "title": "derivatives potential inhibitors: Topics by Science.gov",
+        "url": "https://www.science.gov/topicpages/d/derivatives%2Bpotential%2Binhibitors"
+      },
+      {
+        "title": "Designing Cell-Permeable Peptide Therapeutics That Enter ...",
+        "url": "https://research.ketoacv-gummies.com/blog/280147128990.html"
+      },
+      {
+        "title": "JenaLib Database of Sites",
+        "url": "https://jenalib.leibniz-fli.de/ImgLibPDB/pages/siteDir/siteDir.php?Residue=GLN&field=Residue"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "Structure-based design, synthesis and crystallization of 2-arylquinazolines as lipid pocket ligands of p38α MAPK | PLOS One",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0184627"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q012",
+    "date": "2026-10-26",
+    "batch": "reference-and-exclusion",
+    "queries": [
+      "\"Allosteric BCR-ABL degraders\" GNF-5",
+      "\"GNF-2\" \"myristate\" \"inhibition\" structure",
+      "\"An optimized RNF126-targeting covalent handle\" androgen",
+      "\"carbonic anhydrase IX\" \"sucrose\" structure non-inhibitory",
+      "\"SDIPTAC\" \"Vpr\" \"OICR-8268\"",
+      "\"PTPN2\" \"BGP-1900\" BridGene",
+      "\"noninhibitory USP7\" Young Gui",
+      "\"Structural determination of estrogen-related receptor\" gamma phenol"
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "A sucrose-binding site provides a lead towards an isoform-specific inhibitor of the cancer-associated enzyme carbonic anhydrase IX - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4601603/"
+      },
+      {
+        "title": "An optimized RNF126-targeting covalent handle for molecular glue degraders - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960894X26002106"
+      },
+      {
+        "title": "An Optimized RNF126-Targeting Covalent Handle for Molecular Glue Degraders",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001483/"
+      },
+      {
+        "title": "Acta Crystallographica Section F",
+        "url": "https://www.osti.gov/servlets/purl/1343505"
+      },
+      {
+        "title": "The Ins and Outs of Bcr-Abl Inhibition - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3513788/"
+      },
+      {
+        "title": "Targeting Bcr–Abl by combining allosteric with ATP-binding-site inhibitors | Nature",
+        "url": "https://www.nature.com/articles/nature08675"
+      },
+      {
+        "title": "Oligomerization inhibition, combined with allosteric inhibition, abrogates the transformation potential of T315I-positive BCR/ABL.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19798092/"
+      },
+      {
+        "title": "N-Myristoylated c-Abl Tyrosine Kinase Localizes to the Endoplasmic Reticulum upon Binding to an Allosteric Inhibitor - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2781447/"
+      },
+      {
+        "title": "Targeting wild-type and T315I Bcr-Abl by combining allosteric with ATP-site inhibitors",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2901986/"
+      },
+      {
+        "title": "Dissection of Bcr-abl Structural Domains Relating to Kinase Auto-Inhibition Using a Forward Mutational Screen with the Non-ATP Competitive Inhibitor GNF-2. - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0006497119872695"
+      },
+      {
+        "title": "Inhibitors of the Abl kinase directed at either the ATP- or myristate-binding site - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20152788/"
+      },
+      {
+        "title": "The Ins and Outs of Bcr-Abl Inhibition",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/1947601912462126?download=true"
+      },
+      {
+        "title": "Sweet Binders: Carbonic Anhydrase IX in Complex with Sucralose - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6047028/"
+      },
+      {
+        "title": "Expanding the Diversity of Allosteric Bcr-Abl Inhibitors‡ | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/jm100555f"
+      },
+      {
+        "title": "Development of a Conformation-Sensitive Assay",
+        "url": "https://eldorado.tu-dortmund.de/bitstreams/c451536e-7310-4d57-9ea4-36c516f20d07/download"
+      },
+      {
+        "title": "Allosteric regulation and targeting of Abl SH2-kinase",
+        "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/14f80164-25bc-4d34-9676-b284ef2bdecf/content"
+      },
+      {
+        "title": "Slide 1",
+        "url": "https://www.ks.uiuc.edu/Training/Workshop/Pittsburgh2014/lectures/day5/Lecture3.pdf"
+      },
+      {
+        "title": "Deanship of Graduate Studies",
+        "url": "https://dspace.alquds.edu/server/api/core/bitstreams/45b259f4-4670-45e6-a81a-c7817cbb8ba6/content"
+      },
+      {
+        "title": "List of MeSH codes (D09)",
+        "url": "https://en.wikipedia.org/wiki/List_of_MeSH_codes_%28D09%29"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13224092"
+      },
+      {
+        "title": "A Proximity-Driven Functional Screening Platform for the Discovery of Noninhibitory USP7 Ligand Enabling Targeted Protein Stabilization | Sciety",
+        "url": "https://sciety.org/articles/activity/10.64898/2026.09.10.750156"
+      },
+      {
+        "title": "Structural determination of estrogen-related receptor γ in the presence of phenol derivative compounds - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960076007002361"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126"
+      },
+      {
+        "title": "Structural determination of estrogen-related receptor γ in the presence of phenol derivative compounds",
+        "url": "https://openalex.org/W2036068820"
+      },
+      {
+        "title": "Abstract C049: IMTAC™: A proteome-wide live-cell screening platform for discovering covalent binders to diverse targets including GPCRs, phosphatases, and more | Molecular Cancer Therapeutics | American Association for Cancer Research",
+        "url": "https://aacrjournals.org/mct/article-split/24/10_Supplement/C049/766605/Abstract-C049-IMTACT-A-proteome-wide-live-cell"
+      },
+      {
+        "title": "OCA Atlas for 2P7A",
+        "url": "https://oca.weizmann.ac.il/oca-bin/ocashort?id=2p7a"
+      },
+      {
+        "title": "Genes targeted by the Hedgehog-signaling pathway can be regulated by Estrogen related receptor β",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4657266/"
+      },
+      {
+        "title": "RCSB PDB - 2P7A: Crystal Structure of Estrogen Related Receptor g in complex with 3-methyl phenol",
+        "url": "https://www.rcsb.org/structure/2P7A"
+      },
+      {
+        "title": "BGP-1900 - Drug Targets, Indications, Patents - Synapse",
+        "url": "https://synapse.patsnap.com/drug/70cbe184aeaa4c6096597f4ceda99f92"
+      },
+      {
+        "title": "Bisphénol A",
+        "url": "https://sante.gouv.fr/IMG/pdf/rapport_preliminaire_sur_les_perturbateurs_endocriniens_relatif_aux_effets_du_bisphenol_A_sur_la_reproduction.pdf"
+      },
+      {
+        "title": "Structural Pharmacology of Estrogen-Related Receptors - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12797160/"
+      },
+      {
+        "title": "PDB-2p7a: Crystal Structure of Estrogen Related Receptor g in complex with ... - Yorodumi",
+        "url": "https://pdbj.org/emnavi/quick.php?id=pdb-2p7a"
+      },
+      {
+        "title": "CONCLUSÕES GERAIS",
+        "url": "https://sistemas.furg.br/sistemas/sab/arquivos/bdtd/0000011053.pdf"
+      },
+      {
+        "title": "International Union of Basic and Clinical Pharmacology CXIII: Nuclear Receptor Superfamily - Update 2023",
+        "url": "https://pharmrev.aspetjournals.org/content/pharmrev/early/2023/08/16/pharmrev.121.000436.full.pdf"
+      },
+      {
+        "title": "UNIVERSITE TOULOUSE III – Paul SABATIER",
+        "url": "https://utheme.univ-tlse3.fr/files/original/2c2f92de7273ecc408b3cdbcb3bba4abd57bfbea.pdf"
+      },
+      {
+        "title": "Toxicology and Applied Pharmacology 270 (2013) 16–22",
+        "url": "https://environment.fudan.edu.cn/_upload/article/files/c6/16/bb6b868546fda5e94495dfaf5715/1234f422-7e9b-47f7-a399-ac63a30aba18.pdf"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q013",
+    "date": "2026-10-26",
+    "batch": "primary-05",
+    "queries": [],
+    "opened": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13224092",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001483",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4601603",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358"
+    ],
+    "find": [],
+    "hits": [
+      {
+        "title": "Checking your browser - reCAPTCHA",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13224092"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q014",
+    "date": "2026-10-26",
+    "batch": "evidence-04",
+    "queries": [
+      "\"Self-Dimerization\" \"OICR-8268\" \"inhibit\"",
+      "\"An Optimized RNF126\" \"EST\" \"AR\"",
+      "\"A sucrose-binding site\" \"PDB\" \"inhibition\"",
+      "\"Macrocycle 7 Is a Selective\" \"PTP1B\""
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "A sucrose-binding site provides a lead towards an isoform-specific inhibitor of the cancer-associated enzyme carbonic anhydrase IX - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4601603/"
+      },
+      {
+        "title": "An optimized RNF126-targeting covalent handle for molecular glue degraders - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0960894X26002106"
+      },
+      {
+        "title": "An Optimized RNF126-Targeting Covalent Handle for Molecular Glue Degraders",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001483/"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/jmcmar/article/69/10/12240/5185070/Self-Dimerization-Induced-Proximity-Targeting"
+      },
+      {
+        "title": "An Optimized RNF126-Targeting Covalent Handle for Molecular Glue Degraders - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41867716/?fc=None&ff=20260324205055&v=2.19.0.post6+133c1fe"
+      },
+      {
+        "title": "Activity-based proteomics discovery of deubiquitinating enzyme inhibitors with immunomodulatory activity | npj Drug Discovery",
+        "url": "https://www.nature.com/articles/s44386-026-00092-z"
+      },
+      {
+        "title": "Structural basis for receptor recognition and pore formation of a zebrafish aerolysin‐like protein - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290818/"
+      },
+      {
+        "title": "Sweet Binders: Carbonic Anhydrase IX in Complex with Sucralose - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6047028/"
+      },
+      {
+        "title": "2-(Trihydroxyphenyl)thienopyrimidinones as Key Scaffolds for Targeting a Novel Allosteric Site of HIV-1 Integrase",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12735844/"
+      },
+      {
+        "title": "PDB-101: Diabetes Mellitus: Diabetes Mellitus: undefined: Alpha glucosidase",
+        "url": "https://pdb101.rcsb.org/global-health/diabetes-mellitus/drugs/alpha-glucosidase-inhibitors/target/alpha-glucosidase"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13224092/"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q015",
+    "date": "2026-10-26",
+    "batch": "evidence-05",
+    "queries": [
+      "\"EST1140\" \"non-inhibitory\" ligand",
+      "\"OICR-8268\" \"Vpr\" inhibition",
+      "\"macrocycle 7\" \"DiFMUP\" \"50\" PTP1B",
+      "\"catenin\" \"A211F\" \"S256V\""
+    ],
+    "opened": [],
+    "find": [],
+    "hits": [
+      {
+        "title": "Discovery of Noninhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy | Journal of the American Chemical Society | ACS Publications",
+        "url": "https://https-pubs-acs-org-443.webvpn1.xju.edu.cn/jacsat/article/148/30/32143/5233728/Discovery-of-Noninhibitory-Macrocyclic-Ligands-for"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13224092"
+      },
+      {
+        "title": "Artificial intelligence empowers targeted protein degradation: Core technological innovations, multi‐scenario applications, and translational prospects - Qin - Smart Molecules - Wiley Online Library",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/smo2.70089"
+      },
+      {
+        "title": "Artificial intelligence empowers targeted protein degradation: Core technological innovations, multi‐scenario applications, and translational prospects",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13463263/"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126"
+      },
+      {
+        "title": "OICR-8268 | DCAF1 ligand | Probechem Biochemicals",
+        "url": "https://www.probechem.com/products_OICR-8268.html"
+      },
+      {
+        "title": "E3 ubiquitin ligase components | Enzymes | IUPHAR/BPS Guide to PHARMACOLOGY",
+        "url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=3262"
+      },
+      {
+        "title": "OICR-41103 as a chemical probe for the DCAF1 WD40 domain",
+        "url": "https://www.nature.com/articles/s42003-025-08491-0.pdf"
+      },
+      {
+        "title": "Self-Dimerization Induced Proximity Targeting Chimeras (SDIPTAC) Lead to DCAF1 Loss of Function and Inhibition of HIV Replication | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.6c00126"
+      },
+      {
+        "title": "Crystal structures of DCAF1-PROTAC-WDR5 ternary complexes provide insight into DCAF1 substrate specificity",
+        "url": "https://www.nature.com/articles/s41467-024-54500-x.pdf"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "Crystal structures of DCAF1-PROTAC-WDR5 ternary complexes provide insight into DCAF1 substrate specificity",
+        "url": "https://assets-eu.researchsquare.com/files/rs-4396276/v1/b86f3c9a-62e2-45d2-87f0-2e39d77f5c66.pdf?c=1732435531"
+      },
+      {
+        "title": "Discovery of Nanomolar DCAF1 Small Molecule Ligands | Journal of Medicinal Chemistry | ACS Publications",
+        "url": "https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c02132"
+      },
+      {
+        "title": "Discovery of Nanomolar DCAF1 Small Molecule Ligands - ScienceDirect",
+        "url": "https://www.sciencedirect.com/org/science/article/pii/S1520480423005355"
+      },
+      {
+        "title": "OICR-41103 as a chemical probe for the DCAF1 WD40 domain - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40683980/"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q016",
+    "date": "2026-10-26",
+    "batch": "evidence-06",
+    "queries": [
+      "\"PTP1B\" \"macrocycle 7\" \"50 μM\" site:pmc.ncbi.nlm.nih.gov",
+      "\"EST1140\" \"ligand\" \"non-inhibitory\" AR-V7",
+      "\"PHD2\" \"3C\" \"4C\" \"opposite\"",
+      "\"Getting a Grip on the Undrugged\" \"compound 6\" \"assay\""
+    ],
+    "opened": [
+      "https://www.nature.com/articles/s42003-025-08491-0"
+    ],
+    "find": [],
+    "hits": [
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "An Optimized RNF126-Targeting Covalent Handle for Molecular Glue Degraders",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001483/"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods - Kessler - 2021 - ChemMedChem - Wiley Online Library",
+        "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.202000839"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes",
+        "url": "https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc00286j"
+      },
+      {
+        "title": "As featured in:",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10050364/1/c8sc00286j.pdf"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes - Chemical Science (RSC Publishing) DOI:10.1039/C8SC00286J",
+        "url": "https://pubs.rsc.org/en/content/articlehtml/2018/sc/c8sc00286j"
+      },
+      {
+        "title": "Discovery of Non-Inhibitory Macrocyclic Ligands for Protein Tyrosine Phosphatase 1B Using a Function-Based, Iterative Screening Strategy - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13495358/"
+      },
+      {
+        "title": "(PDF) Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://www.researchgate.net/publication/346642345_Getting_a_Grip_on_the_Undrugged_Targeting_b-Catenin_with_Fragment-Based_Methods"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8247886/"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes - ScienceDirect",
+        "url": "https://www.sciencedirect.com/org/science/article/pii/S2041652018001232"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme-substrate complexes - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29899950/"
+      },
+      {
+        "title": "Non-competitive cyclic peptides for targeting enzyme–substrate complexes‡ ‡Electronic supplementary information (ESI) available. See DOI: 10.1039/c8sc00286j",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5969509/"
+      },
+      {
+        "title": "(PDF) Non-competitive cyclic peptides for targeting enzyme–substrate complexes",
+        "url": "https://www.researchgate.net/publication/324922841_Non-competitive_cyclic_peptides_for_targeting_enzyme-substrate_complexes"
+      },
+      {
+        "title": "An Optimized RNF126-Targeting Covalent Handle for Molecular Glue Degraders - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41867716/?fc=None&ff=20260324205055&v=2.19.0.post6+133c1fe"
+      },
+      {
+        "title": "A chromatin-linked CPL2–PHD2/3 module sustains multiple DNA methylation pathways and Polycomb silencing - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12663933/"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      },
+      {
+        "title": "OICR-41103 as a chemical probe for the DCAF1 WD40 domain | Communications Biology",
+        "url": "https://www.nature.com/articles/s42003-025-08491-0"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  },
+  {
+    "id": "Q017",
+    "date": "2026-10-26",
+    "batch": "pdb-citation-metadata-only",
+    "queries": [],
+    "opened": [
+      "https://www.rcsb.org/structure/4YWP",
+      "https://www.rcsb.org/structure/7OM4",
+      "https://www.rcsb.org/structure/8F8E",
+      "https://www.rcsb.org/structure/5N68"
+    ],
+    "find": [
+      {
+        "ref_id": "见本批来源URL索引",
+        "pattern": "620"
+      },
+      {
+        "ref_id": "见本批来源URL索引",
+        "pattern": "S256V"
+      }
+    ],
+    "hits": [
+      {
+        "title": "RCSB PDB - 4YWP: Sucrose Binding Site in genetically engineered Carbonic anhydrase IX",
+        "url": "https://www.rcsb.org/structure/4YWP"
+      },
+      {
+        "title": "RCSB PDB - 7OM4: Nanobody EgB4 bound to the full extracellular EGFR-EGF complex",
+        "url": "https://www.rcsb.org/structure/7OM4"
+      },
+      {
+        "title": "RCSB PDB - 8F8E: Crystal structure of the WDR domain of human DCAF1 in complex with OICR-8268 compound",
+        "url": "https://www.rcsb.org/structure/8F8E"
+      },
+      {
+        "title": "RCSB PDB - 5N68: Crystal Structure of p38alpha in Complex with Lipid Pocket Ligand 9m",
+        "url": "https://www.rcsb.org/structure/5N68"
+      },
+      {
+        "title": "OICR-41103 as a chemical probe for the DCAF1 WD40 domain | Communications Biology",
+        "url": "https://www.nature.com/articles/s42003-025-08491-0"
+      },
+      {
+        "title": "Getting a Grip on the Undrugged: Targeting β‐Catenin with Fragment‐Based Methods",
+        "url": "https://d-nb.info/1227597614/34"
+      }
+    ],
+    "notes": "按批次返回，不将某结果归因于单条查询。不保存原文大段摘录；内部网页ref只用于追踪，来源索引提供可使用的URL。"
+  }
+]

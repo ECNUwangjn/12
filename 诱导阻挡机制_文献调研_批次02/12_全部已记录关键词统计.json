@@ -1,0 +1,2929 @@
+{
+  "total_recorded_searches": 367,
+  "unique_queries": 365,
+  "scope": "06/09/16/24/26已执行检索；不含网页打开",
+  "queries": [
+    {
+      "id": "K001",
+      "query": "\"non-inhibitory\" \"ligand\" \"crystal\"",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K002",
+      "query": "\"silent binders\" protein ligand",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K003",
+      "query": "\"non-functional\" \"binding site\" fragment protein",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K004",
+      "query": "\"non-inhibitory\" \"binding\" \"PROTAC\"",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K005",
+      "query": "\"non-inhibitory\" \"fragment\" kinase",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K006",
+      "query": "\"silent\" \"binder\" \"PDB\"",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K007",
+      "query": "\"functionally silent\" ligand protein",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K008",
+      "query": "\"non-inhibitory\" \"covalent\" ligand",
+      "types": [
+        "discovery-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K009",
+      "query": "\"Non-competitive cyclic peptides\" \"PHD2\"",
+      "types": [
+        "discovery-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K010",
+      "query": "\"Getting a Grip on the Undrugged\" beta catenin",
+      "types": [
+        "discovery-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K011",
+      "query": "\"Discovery of Non-Inhibitory Macrocyclic Ligands\" PTP1B",
+      "types": [
+        "discovery-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K012",
+      "query": "OTUB1 EN523 MS5105 MS8572 crystal structure C23 non inhibitory",
+      "types": [
+        "discovery-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K013",
+      "query": "\"Discovery of Non-Inhibitory Macrocyclic Ligands\" \"2026\"",
+      "types": [
+        "primary-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K014",
+      "query": "\"Getting a Grip\" \"6\" \"PDB\" catenin",
+      "types": [
+        "primary-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K015",
+      "query": "\"PTP1B\" \"macrocycle 7\" \"inhibition\"",
+      "types": [
+        "primary-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K016",
+      "query": "\"non-inhibitory\" \"ligand\" \"crystal structure\" enzyme -nanobody -antibody -aptamer",
+      "types": [
+        "primary-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K017",
+      "query": "\"non-inhibitory\" \"ligand\" kinase -Sic1 -review -patent",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K018",
+      "query": "\"non-inhibitory\" \"USP7\"",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K019",
+      "query": "\"non-functional\" \"pocket\" ligand crystal",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K020",
+      "query": "\"silent binder\" -site:reddit.com -review -PROTACs",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K021",
+      "query": "\"BRD4\" \"fragment\" \"non-canonical\"",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K022",
+      "query": "\"carbonic anhydrase\" \"non-inhibitory\"",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K023",
+      "query": "\"androgen receptor\" \"non-inhibitory\" ligand",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K024",
+      "query": "\"non-inhibitory\" \"PHD2\" \"structure\"",
+      "types": [
+        "discovery-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K025",
+      "query": "\"USP7\" \"WJ045\"",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K026",
+      "query": "\"noninhibitory\" \"USP7\" ligand screening",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K027",
+      "query": "\"DCAF1\" \"SDIPTAC\" ligand",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K028",
+      "query": "\"androgen receptor\" \"non-inhibitory ligand\"",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K029",
+      "query": "\"p38\" \"lipid pocket\" \"non\" activity ligands",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K030",
+      "query": "\"BGP-1900\" PTPN2",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K031",
+      "query": "\"catenin\" \"cmdc.202000839\" PDB",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K032",
+      "query": "\"PTP1B\" \"6c07205\" inhibition binding site",
+      "types": [
+        "lead-followup-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K033",
+      "query": "site:pubs.acs.org/doi/10.1021/jacs.6c07205 \"inhibit\" \"7\"",
+      "types": [
+        "evidence-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K034",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC13495358/ \"binding site\"",
+      "types": [
+        "evidence-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K035",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC10125259/ \"UBE2D2\"",
+      "types": [
+        "evidence-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K036",
+      "query": "site:pubs.acs.org/doi/10.1021/acs.jmedchem.6c00126 \"monomer\"",
+      "types": [
+        "evidence-01"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K037",
+      "query": "\"PTP1B\" \"macrocycle\" \"7\" \"DiFMUP\"",
+      "types": [
+        "evidence-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K038",
+      "query": "\"PTP1B\" \"6c07205\" \"site\"",
+      "types": [
+        "evidence-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K039",
+      "query": "\"SDIPTAC\" \"OICR\"",
+      "types": [
+        "evidence-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K040",
+      "query": "\"OTUB1\" \"EN523\" \"E2\" interaction",
+      "types": [
+        "evidence-02"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K041",
+      "query": "\"PTP1B\" \"macrocycle 7\" \"binding site\"",
+      "types": [
+        "evidence-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K042",
+      "query": "\"PTP1B\" \"macrocycle 7\" \"50 μM\"",
+      "types": [
+        "evidence-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K043",
+      "query": "\"DCAF1\" \"SDIPTAC\" \"steric\"",
+      "types": [
+        "evidence-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K044",
+      "query": "\"A Proximity-Driven Functional Screening Platform\" USP7",
+      "types": [
+        "evidence-03"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K045",
+      "query": "\"Allosteric BCR-ABL degraders\" GNF-5",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K046",
+      "query": "\"GNF-2\" \"myristate\" \"inhibition\" structure",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K047",
+      "query": "\"An optimized RNF126-targeting covalent handle\" androgen",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K048",
+      "query": "\"carbonic anhydrase IX\" \"sucrose\" structure non-inhibitory",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K049",
+      "query": "\"SDIPTAC\" \"Vpr\" \"OICR-8268\"",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K050",
+      "query": "\"PTPN2\" \"BGP-1900\" BridGene",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K051",
+      "query": "\"noninhibitory USP7\" Young Gui",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K052",
+      "query": "\"Structural determination of estrogen-related receptor\" gamma phenol",
+      "types": [
+        "reference-and-exclusion"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K053",
+      "query": "\"Self-Dimerization\" \"OICR-8268\" \"inhibit\"",
+      "types": [
+        "evidence-04"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K054",
+      "query": "\"An Optimized RNF126\" \"EST\" \"AR\"",
+      "types": [
+        "evidence-04"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K055",
+      "query": "\"A sucrose-binding site\" \"PDB\" \"inhibition\"",
+      "types": [
+        "evidence-04"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K056",
+      "query": "\"Macrocycle 7 Is a Selective\" \"PTP1B\"",
+      "types": [
+        "evidence-04"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K057",
+      "query": "\"EST1140\" \"non-inhibitory\" ligand",
+      "types": [
+        "evidence-05"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K058",
+      "query": "\"OICR-8268\" \"Vpr\" inhibition",
+      "types": [
+        "evidence-05"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K059",
+      "query": "\"macrocycle 7\" \"DiFMUP\" \"50\" PTP1B",
+      "types": [
+        "evidence-05"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K060",
+      "query": "\"catenin\" \"A211F\" \"S256V\"",
+      "types": [
+        "evidence-05"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K061",
+      "query": "\"PTP1B\" \"macrocycle 7\" \"50 μM\" site:pmc.ncbi.nlm.nih.gov",
+      "types": [
+        "evidence-06"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K062",
+      "query": "\"EST1140\" \"ligand\" \"non-inhibitory\" AR-V7",
+      "types": [
+        "evidence-06"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K063",
+      "query": "\"PHD2\" \"3C\" \"4C\" \"opposite\"",
+      "types": [
+        "evidence-06"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K064",
+      "query": "\"Getting a Grip on the Undrugged\" \"compound 6\" \"assay\"",
+      "types": [
+        "evidence-06"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K065",
+      "query": "\"silent binder\" protein ligand non inhibitory",
+      "types": [
+        "keyword"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K066",
+      "query": "\"non-inhibitory fragments\" protein",
+      "types": [
+        "keyword"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K067",
+      "query": "\"nonfunctional site\" ligand binding",
+      "types": [
+        "keyword"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K068",
+      "query": "\"binders\" \"no inhibition\" \"fragment\" enzyme",
+      "types": [
+        "keyword"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K069",
+      "query": "\"non-inhibitory\" \"fragment\" \"pocket\" protein",
+      "types": [
+        "keyword_and_target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K070",
+      "query": "\"silent allosteric\" ligand enzyme",
+      "types": [
+        "keyword_and_target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K071",
+      "query": "\"non-inhibitory\" \"SHP2\" ligand",
+      "types": [
+        "keyword_and_target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K072",
+      "query": "\"non-inhibitory\" \"phosphatase\" ligand -PTP1B",
+      "types": [
+        "keyword_and_target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K073",
+      "query": "PTPN22 fragment screening non inhibitory binding site",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K074",
+      "query": "STEP PTPN5 fragment screening non inhibitory",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K075",
+      "query": "\"non-inhibitory\" \"kinase\" \"fragment\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K076",
+      "query": "\"silent\" \"binding\" \"fragment\" \"LDHA\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K077",
+      "query": "\"Targeting PTPN22\" \"compound 2\" \"KD\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K078",
+      "query": "\"Targeting PTPN22\" \"9YG\" \"inhibition\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K079",
+      "query": "\"Three STEPs forward\" \"CoBrA\" \"activity\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K080",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC12824787/ \"9\" \"compound 2\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K081",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC12824787/ \"affinity\" \"inhibition\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K082",
+      "query": "\"Targeting PTPN22 at Nonorthosteric\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K083",
+      "query": "\"PTPN22\" \"9YG4\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K084",
+      "query": "\"PTPN22\" \"compound 7\" \"375\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K085",
+      "query": "PTPN22 nonorthosteric 9YG0 9YG1 9YG2 compound affinity",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K086",
+      "query": "\"PTPN22\" \"compound 2\" \"μM\" fragment",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K087",
+      "query": "\"IDH1\" \"Differentiating Inhibition\" \"Kd\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K088",
+      "query": "\"bystander\" \"fragment\" protein binding site",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K089",
+      "query": "\"SHP1\" \"fragment\" \"binding\" allosteric",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K090",
+      "query": "\"DUSP6\" \"non-inhibitory\"",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K091",
+      "query": "\"DUSP1\" \"fragment\" binding ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K092",
+      "query": "\"calcineurin\" \"non-inhibitory\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K093",
+      "query": "DUSP6 BCI allosteric inhibitor binding site experimental structure",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K094",
+      "query": "DUSP1 MKP1 ligand fragment binding noncatalytic site",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K095",
+      "query": "PTPN22 \"compound 2\" \"SPR\" \"Table 2\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K096",
+      "query": "PTPN22 \"compound 7\" \"affinity\" \"μM\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K097",
+      "query": "\"PTPN22\" \"compound 2\" \"K\" \"nonorthosteric\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K098",
+      "query": "\"noninhibitory\" ligand \"PRMT\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K099",
+      "query": "\"non-inhibitory\" ligand \"PARP\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K100",
+      "query": "\"non-inhibitory\" ligand \"LDH\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K101",
+      "query": "\"RNF126\" \"non-inhibitory\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K102",
+      "query": "\"DCAF16\" \"non-inhibitory\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K103",
+      "query": "\"RNF114\" \"EN219\" activity",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K104",
+      "query": "\"RNF4\" \"CCW16\" \"activity\"",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K105",
+      "query": "\"Ward\" \"RNF4\" \"2019\" \"2430\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K106",
+      "query": "\"DCAF16\" \"KB02\" \"cysteines\" ligand",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K107",
+      "query": "\"RNF126\" \"fumarate\" \"C32\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K108",
+      "query": "\"non-inhibitory\" \"FIH\" ligand",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K109",
+      "query": "\"non-inhibitory\" \"FTO\" ligand",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K110",
+      "query": "\"non-inhibitory\" \"fragment\" binding enzyme -PTPN22 -PTP1B -UCHL1",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K111",
+      "query": "\"nonfunctional\" \"pocket\" ligand fragment -receptor",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K112",
+      "query": "\"Allosteric PROTACs\" \"nonfunctional\"",
+      "types": [
+        "keyword"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K113",
+      "query": "\"nonfunctional binders\" \"steric\"",
+      "types": [
+        "keyword"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K114",
+      "query": "\"innocent ligand\" enzyme binding",
+      "types": [
+        "keyword"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K115",
+      "query": "\"UCHL1\" \"cyanoacrylamides\" \"100198\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K116",
+      "query": "\"PTPN22\" \"9YDM\" affinity",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K117",
+      "query": "\"non-inhibitory\" \"PRMT1\"",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K118",
+      "query": "\"non-inhibitory\" \"SETD2\"",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K119",
+      "query": "\"non-inhibitory\" \"PARG\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K120",
+      "query": "\"non-inhibitory\" \"FEN1\"",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K121",
+      "query": "\"VCP\" \"non-inhibitory\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K122",
+      "query": "\"HSP90\" \"non-inhibitory\" binder",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K123",
+      "query": "\"LDHA\" fragment \"binding sites\"",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K124",
+      "query": "\"FEN1\" fragment \"binding\" crystal",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K125",
+      "query": "\"Exploration of protein degradability\" \"PRMT5\" \"covalent\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K126",
+      "query": "\"Structural Evidence for Isoform-Selective Allosteric\" \"6\" PDB",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K127",
+      "query": "\"Hsp90\" \"silent\" ligand binding",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K128",
+      "query": "\"p97\" \"non-inhibitory\"",
+      "types": [
+        "mixed"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K129",
+      "query": "\"PRMT5\" \"group-transfer\" \"C449\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K130",
+      "query": "\"Structural Evidence for Isoform-Selective Allosteric Inhibition\" \"6\" \"deposited\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K131",
+      "query": "\"FEN1\" \"N-hydroxyurea\" crystal inhibitor",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K132",
+      "query": "\"non-inhibitory\" \"CDK2\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K133",
+      "query": "\"non-inhibitory\" \"ERK2\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K134",
+      "query": "\"non-inhibitory\" \"BTK\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K135",
+      "query": "\"non-inhibitory\" \"AKT\" ligand",
+      "types": [
+        "target"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K136",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC10789733/ \"Laxiflorin A\" \"ERK2\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K137",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC10789733/ \"Cys-178\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K138",
+      "query": "\"CDK2\" \"allosteric\" \"fragment\" \"ANS\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K139",
+      "query": "\"Detection of secondary binding sites in proteins using fragment screening\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K140",
+      "query": "\"Laxiflorin A\" \"ERK\" \"kinase activity\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K141",
+      "query": "\"CDK2\" \"6-BAP\" \"2011\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K142",
+      "query": "\"HSP70\" \"cryptic\" \"SPR\" fragment binding site",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K143",
+      "query": "\"Detection of secondary binding sites\" \"CDK2\" \"PDB\"",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K144",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC4703025/ \"HSP90\" \"SETD2\" \"compound\"",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K145",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC4703025/ \"PKM2\" \"HSPA2\" \"PDB\"",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K146",
+      "query": "\"5FP5\" \"5FP6\" CDK2",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K147",
+      "query": "\"SETD2\" \"secondary\" fragment ligand",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K148",
+      "query": "SETD2 fragment secondary binding site Ludlow 2015 ligand",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K149",
+      "query": "HSP90A secondary binding site Ludlow fragment 2015",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K150",
+      "query": "\"ERK2\" \"secondary\" \"Ludlow\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K151",
+      "query": "\"PKM2\" \"fragment\" \"non-inhibitory\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K152",
+      "query": "\"Fragment Screening Identifies Novel Allosteric Binders\" activity",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K153",
+      "query": "site:journals.iucr.org/m/issues/2025/02/00/mah5001/ \"secondary\"",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K154",
+      "query": "site:journals.iucr.org/m/issues/2025/02/00/mah5001/ \"surface\" \"activity\"",
+      "types": [
+        "keyword_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K155",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC11822521/ \"F19\" \"site\" \"KD\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K156",
+      "query": "site:pmc.ncbi.nlm.nih.gov/articles/PMC12743321/ \"F19\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K157",
+      "query": "\"VHR\" \"F19\" \"inhibition\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K158",
+      "query": "\"VHR\" \"F19\" \"affinity\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K159",
+      "query": "\"Identification of target sites in the VHR\" \"inhibition\"",
+      "types": [
+        "target_followup"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K160",
+      "query": "\"non-inhibitory\" \"ligand\" \"steric\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K161",
+      "query": "\"functionally silent\" \"binder\" protein",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K162",
+      "query": "\"DUSP3\" \"F19\" inhibition affinity",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K163",
+      "query": "\"non-inhibitory\" \"fragment\" -PTPN22 -UCHL1 -PTP1B",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K164",
+      "query": "\"noninhibitory\" \"aptamer\" \"phosphatase\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K165",
+      "query": "\"non-inhibitory\" \"ligand\" \"Gaucher\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K166",
+      "query": "\"non-inhibitory\" \"pharmacological chaperone\" binding site",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K167",
+      "query": "\"silent\" \"binder\" \"enzyme\" fragment -antibody",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K168",
+      "query": "\"alkaline phosphatase\" \"aptamer\" \"non-inhibitory\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K169",
+      "query": "\"noninhibitory\" \"aptamers\" enzyme",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K170",
+      "query": "\"non-inhibitory\" \"glucocerebrosidase\" \"fragment\" Landon",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K171",
+      "query": "\"non-inhibitory\" \"alpha glucosidase\" ML247",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K172",
+      "query": "\"Ligand-Directed Self-Assembling Chimeras\" \"7a\" \"binding\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K173",
+      "query": "\"Ligand-Directed Self-Assembling Chimeras\" \"site\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K174",
+      "query": "\"noninhibitory\" \"OGT\" \"Kd\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K175",
+      "query": "\"non-inhibitory\" \"recruiter\" -OGT -PTP1B -OTUB1",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K176",
+      "query": "\"non-inhibitory\" \"ligands\" \"phosphatase\" -PTP1B -PTPN22 -VHR",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K177",
+      "query": "\"silent binders\" \"protein\" -PROTAC -2026",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K178",
+      "query": "\"nonfunctional\" \"ligand\" \"DHFR\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K179",
+      "query": "\"non-inhibitory\" \"thrombin\" \"ligand\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K180",
+      "query": "\"non-inhibitory\" \"caspase\" ligand",
+      "types": [
+        "不限靶点扩展",
+        "续查与不限靶点"
+      ],
+      "count": 2
+    },
+    {
+      "id": "K181",
+      "query": "\"non-inhibitory\" \"carbonic anhydrase\" binding",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K182",
+      "query": "\"non-inhibitory\" \"cyclophilin\" ligand",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K183",
+      "query": "\"Apt#Z6\" \"Kd\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K184",
+      "query": "\"Apt#Z6\" \"substrate\" \"binding\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K185",
+      "query": "\"non-inhibitory\" \"aptameric ligand\" -ZYG11B",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K186",
+      "query": "\"non-inhibitory\" \"ligand\" \"peptidyl\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K187",
+      "query": "\"non-inhibitory\" \"fragment\" \"binding site\" -PTPN22 -VHR -UCHL1 -PTP1B",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K188",
+      "query": "\"neutral\" \"allosteric\" \"enzyme\" ligand binding -receptor",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K189",
+      "query": "\"Author Correction\" \"57823\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K190",
+      "query": "\"ML247\" \"activation\" purified",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K191",
+      "query": "\"noninhibitory\" \"glucocerebrosidase\" \"NCGC00188758\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K192",
+      "query": "\"non-inhibitory\" \"ligand\" \"binding\" -receptor -PTP1B -VHR -UCHL1 -OGT -ZYG11B -PROTAC -chaperone",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K193",
+      "query": "\"non-inhibitory\" \"ligand\" \"enzyme\" -chaperone -OGT -PTP1B -glucocerebrosidase -phosphatase -PROTAC -receptor",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K194",
+      "query": "\"non-inhibitory\" \"fragment\" \"protease\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K195",
+      "query": "\"silent binder\" \"target\" -linkedin -PROTAC",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K196",
+      "query": "\"innocent ligands\" protein -metal -ruthenium -catalysis",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K197",
+      "query": "fragment \"binds\" \"no inhibition\" \"secondary\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K198",
+      "query": "fragment \"binds\" \"no effect on activity\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K199",
+      "query": "ligand \"non-functional site\" enzyme -PROTAC",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K200",
+      "query": "\"non-inhibitory binding\" \"small molecule\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K201",
+      "query": "\"M0076-D03\" \"epitope\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K202",
+      "query": "\"M0076\" \"MMP-9\" \"inhibition\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K203",
+      "query": "\"non-inhibitory\" \"nanobody\" \"enzyme\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K204",
+      "query": "\"non-inhibitory\" \"fragment\" \"crystal\" -VHR -PTPN22 -UCHL1",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K205",
+      "query": "\"M0076\" \"hybrid\" inhibitor",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K206",
+      "query": "\"M0076\" \"inhibition\" \"soluble\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K207",
+      "query": "\"Trypsin-3\" \"NT3-16\" affinity",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K208",
+      "query": "\"GSDMD\" \"non-inhibitory\" \"VHH\" \"structure\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K209",
+      "query": "\"BGP-1900\" \"binding\" PTPN2",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K210",
+      "query": "\"USP7\" \"non-inhibitory\" WJ045",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K211",
+      "query": "\"A High-Affinity Nanobody Selectively Recognizing KPC\" \"KD\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K212",
+      "query": "\"KPC-3\" \"nanobody\" \"epitope\" 2026",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K213",
+      "query": "\"BGP-1900\" site:bridgenebio.com",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K214",
+      "query": "\"Noninhibitory\" \"USP7\" \"2026.09.10\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K215",
+      "query": "\"10.64898/2026.09.10.750156\"",
+      "types": [
+        "20261027续查",
+        "不限靶点扩展"
+      ],
+      "count": 2
+    },
+    {
+      "id": "K216",
+      "query": "\"C049\" \"PTPN2\" \"non\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K217",
+      "query": "\"non-inhibitory\" \"small molecule\" \"surface pocket\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K218",
+      "query": "\"fragment\" \"no inhibition\" \"distal site\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K219",
+      "query": "enzyme fragment \"bind\" \"without inhibiting\" crystal",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K220",
+      "query": "\"non-inhibitory\" \"fragment\" \"DHFR\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K221",
+      "query": "\"non-inhibitory\" \"ligand\" \"caspase-7\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K222",
+      "query": "\"silent\" \"ligands\" \"crystallographic\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K223",
+      "query": "\"fragment\" \"noninhibitory\" crystal -VHR -PTPN22",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K224",
+      "query": "\"fragment\" \"silent binder\" enzyme",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K225",
+      "query": "\"USP7\" \"on-bead\" \"noninhibitory\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K226",
+      "query": "C5 K149 silent binder crystal structure",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K227",
+      "query": "C4b \"silent\" nanobody structure",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K228",
+      "query": "IRAK3 \"silent binder\" structure",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K229",
+      "query": "\"K149\" \"C5\" Macpherson eLife",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K230",
+      "query": "\"NbB12\" \"KD\" \"7\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K231",
+      "query": "\"IRAK-M\" \"silent binder\" degrader crystal",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K232",
+      "query": "\"NbB12\" \"7B2\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K233",
+      "query": "\"NbB12\" \"1 μM\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K234",
+      "query": "\"C5\" \"K149\" \"HDX\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K235",
+      "query": "\"SRC\" \"non-inhibitory\" \"ligand\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K236",
+      "query": "\"BTK\" \"non-inhibitory\" \"binder\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K237",
+      "query": "\"AKT1\" \"fragment\" \"secondary\" \"binding\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K238",
+      "query": "\"IRAK3\" \"silent\" \"ligand\" structure",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K239",
+      "query": "\"BTK\" \"group-transfer\" phosphorylation chimera",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K240",
+      "query": "\"CA II\" \"sucrose\" \"binding\" inhibition",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K241",
+      "query": "\"HDAC6\" \"non-inhibitory\" ligand",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K242",
+      "query": "\"FTO\" \"fragment\" \"allosteric\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K243",
+      "query": "\"Structure-based Discovery\" \"FTO\" inhibitor cryptic",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K244",
+      "query": "\"Development and Applications of Chimera Platforms\" \"ABL\" \"DPH\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K245",
+      "query": "\"Development and Applications of Chimera Platforms\" \"noninhibitory\" \"ligand\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K246",
+      "query": "\"PMC10450875\" \"DPH\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K247",
+      "query": "\"PMC10450875\" \"five\" \"scaffolds\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K248",
+      "query": "\"PMC10450875\" \"activator\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K249",
+      "query": "\"PMC10450875\" \"1a\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K250",
+      "query": "\"Tyrosine Phosphorylation\" \"PHICS\" \"myristoyl\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K251",
+      "query": "\"Tyrosine Phosphorylation\" \"PHICS\" \"activators\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K252",
+      "query": "\"Tyrosine Phosphorylation\" \"PHICS\" \"DPH\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K253",
+      "query": "\"PARG\" \"fragment\" \"non-inhibitory\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K254",
+      "query": "\"PARP1\" \"fragment\" \"non-inhibitory\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K255",
+      "query": "\"APEX1\" \"fragment\" binding site",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K256",
+      "query": "\"HDAC8\" \"fragment\" \"non-inhibitory\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K257",
+      "query": "\"A New Drug Discovery Platform\" \"APE1\" \"allosteric\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K258",
+      "query": "\"APE1\" \"XPTx\" \"fragment\" \"inhibition\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K259",
+      "query": "\"PARG\" \"fragment\" \"second site\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K260",
+      "query": "\"PARP1\" \"fragment\" \"allosteric\" \"binding\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K261",
+      "query": "\"A New Drug Discovery Platform\" \"Hit 1\" \"Hit 2\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K262",
+      "query": "\"APE1\" \"A site\" \"fragment\" \"PDB\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K263",
+      "query": "\"POLH\" \"XPTx-0267\" \"site\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K264",
+      "query": "\"Characterizing inhibitors of human AP endonuclease 1\" \"3\" \"inhibition\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K265",
+      "query": "\"Characterizing inhibitors\" \"carboxylic\" \"Kd\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K266",
+      "query": "\"5-nitroindole-2-carboxylic\" \"redox\" APE1",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K267",
+      "query": "\"APE1\" \"remote pocket\" \"non-inhibitory\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K268",
+      "query": "\"Characterizing inhibitors\" \"3\" \"0.75\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K269",
+      "query": "\"NMR Studies Reveal an Unexpected Binding Site\" \"redox\" \"pocket\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K270",
+      "query": "\"APE1\" \"E3330\" \"Q137\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K271",
+      "query": "\"neutral allosteric ligand\" enzyme fragment",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K272",
+      "query": "\"non-inhibitory\" \"fragment\" \"lysozyme\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K273",
+      "query": "\"non-inhibitory\" \"fragment\" \"kinase\" surface",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K274",
+      "query": "\"fragment\" \"no effect on enzyme activity\" binding",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K275",
+      "query": "\"silent binder\" \"IRAK3\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K276",
+      "query": "\"non-inhibitory\" \"ligand\" \"catalytic\" -chaperone -glucocerebrosidase -OGT -PTP1B -USP7 -PTPN2",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K277",
+      "query": "\"IRAK3\" \"binder\" degrader \"silent\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K278",
+      "query": "\"silent\" \"IRAK-M\" ligand",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K279",
+      "query": "\"non-inhibitory\" \"ligand\" \"HMBS\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K280",
+      "query": "\"Proximity-Induced Protein Deglycosylation\" \"OGA\" ligand inhibition",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K281",
+      "query": "\"Degorce\" \"IRAK3\" 2020 crystal binder",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K282",
+      "query": "\"IRAK-M\" \"silent binder\" \"2354\"",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K283",
+      "query": "\"IRAK3\" \"degraders\" \"6\" crystal structure",
+      "types": [
+        "不限靶点扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K284",
+      "query": "\"BGP-1900\" PTPN2 binding site",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K285",
+      "query": "\"USP7\" \"WJ045\" noninhibitory",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K286",
+      "query": "\"BGP-1900\" \"C049\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K287",
+      "query": "site:bridgenebio.com \"BGP-1900\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K288",
+      "query": "\"USP7\" \"Young\" \"noninhibitory\" ligand affinity",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K289",
+      "query": "\"USP15\" \"UbV.15.D\" crystal",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K290",
+      "query": "\"USP15\" \"noninhibitory\" ubiquitin variant",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K291",
+      "query": "\"ubiquitin variants\" \"Grb2\" \"G2.1\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K292",
+      "query": "\"Structural and Functional Characterization of Ubiquitin Variant Inhibitors of USP15\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K293",
+      "query": "\"Ubiquitin variants\" \"Grb2\" Leung 2017",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K294",
+      "query": "\"USP15\" \"UbV\" \"non-inhibitory\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K295",
+      "query": "\"USP15\" \"15.D\" \"6\" \"PDB\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K296",
+      "query": "\"A Panel of Engineered Ubiquitin Variants\" DUSP 2021 doi",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K297",
+      "query": "\"A Highly Diverse and Functional Naïve Ubiquitin Variant Library\" Grb2",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K298",
+      "query": "\"USP15\" \"UbV\" site:rcsb.org/structure",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K299",
+      "query": "\"Grb2\" \"Ubv.G2.1\" \"inhibit\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K300",
+      "query": "\"USP15\" \"15.D\" \"S4A\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K301",
+      "query": "\"HIF1AN\" \"non-inhibitory\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K302",
+      "query": "\"FIH\" \"cyclic peptide\" binding inhibition",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K303",
+      "query": "\"PPIA\" \"non-inhibitory\" ligand",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K304",
+      "query": "\"SENP1\" \"fragment\" \"secondary\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K305",
+      "query": "cyclophilin \"non-inhibitory\" binding ligand",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K306",
+      "query": "\"SENP1\" \"fragment\" \"allosteric\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K307",
+      "query": "\"SENP2\" \"fragment\" binding",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K308",
+      "query": "\"silent binders\" protein fragment -IRAK -USP7",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K309",
+      "query": "\"Discovery of a Dual SENP1 and SENP2 Inhibitor\" \"allosteric\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K310",
+      "query": "\"cyclophilin A\" \"fragment\" \"non-catalytic\" binding",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K311",
+      "query": "\"cyclophilin A\" \"fragment\" \"second\" pocket",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K312",
+      "query": "\"Pushing The Limits Of Detection Of Weak Binding\" cyclophilin DOI",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K313",
+      "query": "\"7R2I\" inhibition fragment",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K314",
+      "query": "\"Functional TRIM24 degrader\" \"IACS\" bromodomain",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K315",
+      "query": "\"Pushing the Limits\" \"cyclophilin\" \"artefact\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K316",
+      "query": "\"Pushing the limits of hydrogen/deuterium\" \"Kd\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K317",
+      "query": "\"Discovery of a Dual SENP1 and SENP2 Inhibitor\" \"binding\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K318",
+      "query": "\"10.1016/j.jmb.2017.06.016\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K319",
+      "query": "\"Pushing the Limits of Detection\" \"crystallographic\"",
+      "types": [
+        "20261027续查"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K320",
+      "query": "\"USP15\" \"15.D\" \"S4\" inhibition",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K321",
+      "query": "\"Grb2\" \"G2.1\" ubiquitin variant affinity",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K322",
+      "query": "\"Structural and Functional Characterization of Ubiquitin Variant Inhibitors of USP15\" pdf",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K323",
+      "query": "\"Grb2\" \"Ubv\" \"G2\" Leung",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K324",
+      "query": "\"non-inhibitory\" \"fragment\" \"surface\" enzyme -PTP1B -USP7",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K325",
+      "query": "\"non-inhibitory\" \"fragment\" \"methyltransferase\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K326",
+      "query": "\"non-inhibitory\" \"fragment\" \"protease\" -antibody -SENP",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K327",
+      "query": "\"non-inhibitory\" \"ligand\" \"kinase\" -phosphatase -PTP1B -USP7 -OGT",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K328",
+      "query": "\"Grb2\" \"Ubv.G2.1\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K329",
+      "query": "\"fragment\" \"no biochemical activity\" \"binding site\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K330",
+      "query": "\"silent binder\" enzyme -reddit -IRAK -USP7 -TRIM24",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K331",
+      "query": "\"nonfunctional site\" ligand fragment protein",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K332",
+      "query": "\"thrombin\" \"HD22\" \"non-inhibitory\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K333",
+      "query": "\"HDAC8\" \"fragment\" \"secondary site\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K334",
+      "query": "\"PARP1\" \"non-inhibitory\" ligand",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K335",
+      "query": "\"RNF126\" \"EN106\" activity cysteine",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K336",
+      "query": "\"RNF126\" \"JP-2-196\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K337",
+      "query": "\"RNF126\" \"EST1027\" \"BAG6\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K338",
+      "query": "\"HD22\" \"thrombin\" \"inhibits\" exosite",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K339",
+      "query": "\"non-inhibitory\" \"fragment\" \"crystallographic\" -VHR -PTPN22",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K340",
+      "query": "\"RNF126\" \"EST1027\" \"C32\" protein degradation",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K341",
+      "query": "\"RNF126\" \"JP-2-196\" \"activity\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K342",
+      "query": "\"neutral ligand\" \"enzyme\" \"fragment\" -receptor -metal",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K343",
+      "query": "\"SETD2\" \"fragment\" \"secondary\" site",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K344",
+      "query": "\"pyruvate kinase\" \"fragment\" \"non-inhibitory\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K345",
+      "query": "\"pyruvate kinase\" \"fragment\" \"surface\" crystal",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K346",
+      "query": "RNF126 C32 zinc finger BAG6 binding structure ubiquitination",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K347",
+      "query": "\"non-inhibitory\" \"fragment\" \"secondary binding site\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K348",
+      "query": "\"silent binder\" protein ligand -reddit -IRAK3 -TRIM24 -USP7",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K349",
+      "query": "\"cyclophilin\" \"non-inhibitory\" fragments",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K350",
+      "query": "\"non-inhibitory\" \"ligands\" \"crystal\" enzyme fragment",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K351",
+      "query": "\"non-inhibitory\" \"binding\" \"SETD2\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K352",
+      "query": "\"Structural insights into the non-inhibitory mechanism\" EgB4",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K353",
+      "query": "\"UNC6934\" \"PWWP1\" nucleolar",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K354",
+      "query": "\"EGF induces coalescence of different lipid rafts\" EgB4",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K355",
+      "query": "\"EgB4\" \"non-agonistic\" phosphorylation",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K356",
+      "query": "\"EgB4\" \"Kd\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K357",
+      "query": "\"EgB4\" \"affinity\" \"nM\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K358",
+      "query": "\"PPIA\" \"fragment\" \"non-inhibitory\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K359",
+      "query": "\"non-inhibitory\" \"ACE2\" ligand",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K360",
+      "query": "cyclophilin A fragment screening secondary pocket non catalytic site NMR",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K361",
+      "query": "cyclophilin A fragments binding no inhibition allosteric site",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K362",
+      "query": "\"silent ligands\" \"enzyme\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K363",
+      "query": "\"D2MD00161F\" \"fragment\" \"19\"",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K364",
+      "query": "\"CK2\" \"alphaD\" \"non-inhibitory\" fragments",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K365",
+      "query": "\"CK2\" \"5CS6\" affinity",
+      "types": [
+        "续查与不限靶点"
+      ],
+      "count": 1
+    }
+  ]
+}
