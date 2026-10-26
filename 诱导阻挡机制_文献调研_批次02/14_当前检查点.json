@@ -1,11 +1,11 @@
 {
-  "coverage": 49,
-  "judged_routes": 44,
+  "coverage": 54,
+  "judged_routes": 49,
   "lead_only": 5,
-  "pending": 51,
+  "pending": 46,
   "strict_A": 0,
-  "keyword_records": 367,
-  "unique_queries": 365,
+  "keyword_records": 413,
+  "unique_queries": 410,
   "extra_targets": [
     "DUSP3",
     "MAPK3",
@@ -26,19 +26,22 @@
     "GRB2",
     "EGFR",
     "NSD2",
-    "CSNK2A1"
+    "CSNK2A1",
+    "PADI4",
+    "SFN"
   ],
   "extra_lead_only": [
     "HSPA2",
     "GAA",
     "IRAK3",
-    "GRB2"
+    "GRB2",
+    "PADI4"
   ],
   "automation_id": "automation",
   "next": [
     "USP15 Fig S4A条件与生理底物",
     "GRB2原始全文",
-    "PPIA fragment作者稿",
+    "VCP早期片段功能与位点；EGFR下游功能阴性范围",
     "PTPN2/USP7缺原始数据，避免无变化重复检索"
   ],
   "note": "历史goal usageLimited不能证明当前额度耗尽",

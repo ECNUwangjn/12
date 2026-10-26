@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-27",
+  "queries": [
+    "\"DHFR\" \"fragment\" \"allosteric\" binding",
+    "\"HDAC8\" \"fragment\" \"allosteric\"",
+    "\"DHX9\" \"covalent\" ligand cysteine",
+    "\"DDX3X\" \"non-inhibitory\"",
+    "\"Mechanistic analysis of allosteric and non-allosteric\" DHFR nanobody",
+    "\"DHFR\" \"Nb\" \"non-allosteric\"",
+    "\"DHX9\" \"ATX968\" \"PDB\"",
+    "\"HDAC8\" \"MiniFrags\" \"B6\" IC50",
+    "\"silent binder\" protein fragment -site:reddit.com -site:benchchem.com",
+    "\"neutral binders\" protein enzyme",
+    "\"non-inhibitory fragments\" -site:benchchem.com",
+    "\"binding\" \"without inhibiting\" \"fragment\" enzyme -antibody -antibodies -nanobody -nanobodies -PROTAC",
+    "\"US20250127908\" \"BGP\"",
+    "\"BGP-1900\"",
+    "\"PTPN2\" \"BGP\"",
+    "\"USP7\" \"silent binder\"",
+    "USP7 noninhibitory ligand DUBTAC September 2026 bioRxiv",
+    "\"USP7\" \"non-inhibitory\" ligand 2026",
+    "\"Antibody discovery identifies regulatory mechanisms\" \"neutral\"",
+    "\"PAD4\" \"hN\" \"antibody\" 2024",
+    "\"14-3-3\" \"neutral binders\" \"C38\"",
+    "\"s41467-025-61176-4\" \"neutral\"",
+    "\"jacs.3c05161\" \"neutral\""
+  ],
+  "note": "实际执行；结果及来源见30。无有效命中也计入；网页打开不计检索式。"
+}

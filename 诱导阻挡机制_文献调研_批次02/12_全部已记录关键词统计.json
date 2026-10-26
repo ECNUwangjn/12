@@ -1,7 +1,7 @@
 {
-  "total_recorded_searches": 367,
-  "unique_queries": 365,
-  "scope": "06/09/16/24/26已执行检索；不含网页打开",
+  "total_recorded_searches": 413,
+  "unique_queries": 410,
+  "scope": "06/09/16/24/26/29/31已执行检索；不含网页打开",
   "queries": [
     {
       "id": "K001",
@@ -967,9 +967,10 @@
       "id": "K121",
       "query": "\"VCP\" \"non-inhibitory\" ligand",
       "types": [
-        "target"
+        "target",
+        "原清单续查及关键词"
       ],
-      "count": 1
+      "count": 2
     },
     {
       "id": "K122",
@@ -2922,6 +2923,366 @@
       "query": "\"CK2\" \"5CS6\" affinity",
       "types": [
         "续查与不限靶点"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K366",
+      "query": "\"PAK1\" \"non-inhibitory\" ligand",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K367",
+      "query": "\"SRC\" \"silent\" binder ligand",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K368",
+      "query": "\"PARP1\" \"fragment\" \"non-catalytic\" binding",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K369",
+      "query": "\"ligand\" \"no effect on enzyme activity\" \"binding\" fragment",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K370",
+      "query": "\"non-inhibitory\" \"binding site\" \"small molecule\" -PTP1B -ZYG11B -ACE2 -USP7",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K371",
+      "query": "\"functionally silent\" \"ligand\" enzyme -receptor -opioid",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K372",
+      "query": "\"VCP\" \"fragment screening\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K373",
+      "query": "\"KRAS\" \"non-inhibitory\" ligand",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K374",
+      "query": "\"KRAS\" \"C118\" \"ligand\" activity",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K375",
+      "query": "\"RHOA\" \"non-inhibitory\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K376",
+      "query": "\"KEAP1\" \"non-inhibitory\" ligand",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K377",
+      "query": "\"non-inhibitory\" \"p97\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K378",
+      "query": "\"non-inhibitory\" \"KEAP1\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K379",
+      "query": "\"PAK1\" \"PIR3.5\" binding",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K380",
+      "query": "\"KRAS\" \"DL0993\" activity",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K381",
+      "query": "\"SETD2\" \"AT\" \"fragment\" secondary site",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K382",
+      "query": "\"Detection of secondary binding sites\" \"SETD2\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K383",
+      "query": "\"Detection of secondary binding sites\" \"PKM\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K384",
+      "query": "\"p97\" \"fragment\" \"N-domain\" ligand",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K385",
+      "query": "\"PMC9814400\" \"TROLL2\" \"inhibition\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K386",
+      "query": "\"PMC9814400\" \"Table 1\" \"TROLL2\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K387",
+      "query": "\"A Fragment-Based Ligand Screen\" \"ATPase\" \"inhibit\"",
+      "types": [
+        "原清单续查及关键词"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K388",
+      "query": "\"DHFR\" \"fragment\" \"allosteric\" binding",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K389",
+      "query": "\"HDAC8\" \"fragment\" \"allosteric\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K390",
+      "query": "\"DHX9\" \"covalent\" ligand cysteine",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K391",
+      "query": "\"DDX3X\" \"non-inhibitory\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K392",
+      "query": "\"Mechanistic analysis of allosteric and non-allosteric\" DHFR nanobody",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K393",
+      "query": "\"DHFR\" \"Nb\" \"non-allosteric\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K394",
+      "query": "\"DHX9\" \"ATX968\" \"PDB\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K395",
+      "query": "\"HDAC8\" \"MiniFrags\" \"B6\" IC50",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K396",
+      "query": "\"silent binder\" protein fragment -site:reddit.com -site:benchchem.com",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K397",
+      "query": "\"neutral binders\" protein enzyme",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K398",
+      "query": "\"non-inhibitory fragments\" -site:benchchem.com",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K399",
+      "query": "\"binding\" \"without inhibiting\" \"fragment\" enzyme -antibody -antibodies -nanobody -nanobodies -PROTAC",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K400",
+      "query": "\"US20250127908\" \"BGP\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K401",
+      "query": "\"BGP-1900\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K402",
+      "query": "\"PTPN2\" \"BGP\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K403",
+      "query": "\"USP7\" \"silent binder\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K404",
+      "query": "USP7 noninhibitory ligand DUBTAC September 2026 bioRxiv",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K405",
+      "query": "\"USP7\" \"non-inhibitory\" ligand 2026",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K406",
+      "query": "\"Antibody discovery identifies regulatory mechanisms\" \"neutral\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K407",
+      "query": "\"PAD4\" \"hN\" \"antibody\" 2024",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K408",
+      "query": "\"14-3-3\" \"neutral binders\" \"C38\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K409",
+      "query": "\"s41467-025-61176-4\" \"neutral\"",
+      "types": [
+        "中性配体关键词扩展"
+      ],
+      "count": 1
+    },
+    {
+      "id": "K410",
+      "query": "\"jacs.3c05161\" \"neutral\"",
+      "types": [
+        "中性配体关键词扩展"
       ],
       "count": 1
     }

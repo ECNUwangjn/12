@@ -131,11 +131,11 @@
     "name": "PAK1",
     "category": "蛋白激酶",
     "species": "Homo sapiens",
-    "status": "待检索",
-    "site_status": "未核查",
-    "ligand": null,
+    "status": "原始论文路线判断",
+    "site_status": "X功能位点；PIR3.5结合未证实",
+    "ligand": "IPA-3；PIR3.5对照",
     "source_ids": [],
-    "note": "规划清单；入列不代表存在合格配体。"
+    "note": "见28；仅判断所列路线"
   },
   {
     "id": "T011",
@@ -600,11 +600,14 @@
     "name": "HDAC8",
     "category": "表观遗传修饰酶",
     "species": "Homo sapiens",
-    "status": "待检索",
-    "site_status": "未核查",
-    "ligand": null,
+    "status": "原始论文路线判断",
+    "site_status": "X功能抑制配体",
+    "ligand": "MiniFrags B6+、3",
     "source_ids": [],
-    "note": "规划清单；入列不代表存在合格配体。"
+    "note": "见30；仅排除所列路线",
+    "source_urls": [
+      "https://doi.org/10.1021/acs.jmedchem.3c01779"
+    ]
   },
   {
     "id": "T045",
@@ -886,11 +889,14 @@
     "name": "DHX9",
     "category": "核酸加工及修复酶",
     "species": "Homo sapiens",
-    "status": "待检索",
-    "site_status": "未核查",
-    "ligand": null,
+    "status": "原始论文路线判断",
+    "site_status": "X功能抑制配体",
+    "ligand": "初始1、ATX968",
     "source_ids": [],
-    "note": "规划清单；入列不代表存在合格配体。"
+    "note": "见30；仅排除所列路线",
+    "source_urls": [
+      "https://doi.org/10.1021/acs.jmedchem.5c00252"
+    ]
   },
   {
     "id": "T067",
@@ -1004,11 +1010,11 @@
     "name": "p97 / VCP",
     "category": "ATP/GTP酶、伴侣及异构酶",
     "species": "Homo sapiens",
-    "status": "待检索",
-    "site_status": "未核查",
-    "ligand": null,
+    "status": "原始论文路线判断",
+    "site_status": "TROLL2 X功能PPI位点；其他C",
+    "ligand": "TROLL2；其他未定位片段",
     "source_ids": [],
-    "note": "规划清单；入列不代表存在合格配体。"
+    "note": "见28；仅判断所列路线"
   },
   {
     "id": "T076",
@@ -1085,11 +1091,11 @@
     "name": "KRAS",
     "category": "ATP/GTP酶、伴侣及异构酶",
     "species": "Homo sapiens",
-    "status": "待检索",
-    "site_status": "未核查",
-    "ligand": null,
+    "status": "原始论文路线判断",
+    "site_status": "X工程半胱氨酸构建体；R",
+    "ligand": "DL0993",
     "source_ids": [],
-    "note": "规划清单；入列不代表存在合格配体。"
+    "note": "见28；仅判断所列路线"
   },
   {
     "id": "T082",

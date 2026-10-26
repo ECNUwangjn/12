@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-27",
+  "queries": [
+    "\"PAK1\" \"non-inhibitory\" ligand",
+    "\"SRC\" \"silent\" binder ligand",
+    "\"PARP1\" \"fragment\" \"non-catalytic\" binding",
+    "\"VCP\" \"non-inhibitory\" ligand",
+    "\"ligand\" \"no effect on enzyme activity\" \"binding\" fragment",
+    "\"non-inhibitory\" \"binding site\" \"small molecule\" -PTP1B -ZYG11B -ACE2 -USP7",
+    "\"functionally silent\" \"ligand\" enzyme -receptor -opioid",
+    "\"VCP\" \"fragment screening\"",
+    "\"KRAS\" \"non-inhibitory\" ligand",
+    "\"KRAS\" \"C118\" \"ligand\" activity",
+    "\"RHOA\" \"non-inhibitory\"",
+    "\"KEAP1\" \"non-inhibitory\" ligand",
+    "\"non-inhibitory\" \"p97\"",
+    "\"non-inhibitory\" \"KEAP1\"",
+    "\"PAK1\" \"PIR3.5\" binding",
+    "\"KRAS\" \"DL0993\" activity",
+    "\"SETD2\" \"AT\" \"fragment\" secondary site",
+    "\"Detection of secondary binding sites\" \"SETD2\"",
+    "\"Detection of secondary binding sites\" \"PKM\"",
+    "\"p97\" \"fragment\" \"N-domain\" ligand",
+    "\"PMC9814400\" \"TROLL2\" \"inhibition\"",
+    "\"PMC9814400\" \"Table 1\" \"TROLL2\"",
+    "\"A Fragment-Based Ligand Screen\" \"ATPase\" \"inhibit\""
+  ]
+}
